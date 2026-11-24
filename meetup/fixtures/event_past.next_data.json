@@ -1,0 +1,546 @@
+{
+ "props": {
+  "pageProps": {
+   "isMobile": false,
+   "showMobileBanner": true,
+   "memberLocale": "en-US",
+   "localeMessages": {
+    "organizerUpgradeModal2.upgradeToTier": "Upgrade to {tier}",
+    "sendEmailModal.subject": "Subject",
+    "sendEmailModal.message": "Message",
+    "sendEmailModal.send": "Send",
+    "sendEmailModal.cancel": "Cancel",
+    "comparisonLikePaywall.continue": "Continue",
+    "a11y.skipToContent": "Skip to content",
+    "desktopHeader.homepage": "Homepage",
+    "desktopSearch.searchEvents": "Search events...",
+    "searchLocationTypeahead.placeholder": "Neighborhood, city or zip",
+    "searchLocationTypeahead.searchLocationByCityOrZip": "Search for location by city or zip code",
+    "seo.allEvents": "All events",
+    "seo.eventsIn": "Events in {name}",
+    "event.info.only1Host": "{HOST_1}",
+    "eventHome.hostedBy": "Hosted by {HOST_NAMES}",
+    "EventStickyFooter.shareButton.shareThisEvent": "Share this event",
+    "shareButton.eventShareTitle_v2": "Share",
+    "EventInfoCard.TimeInfo.durationFromDayToDay": "{FROM_DATE} to {END_DATE}",
+    "EventDetailsContainer.details": "Details",
+    "EventHome.relatedTopics": "Related topics",
+    "EventTags.eventsIn": "Events in {name}",
+    "event.descriptionEventAbuseReportLink_v2": "Report event",
+    "relatedEvents.findMoreEventsVariantV2": "You may also like",
+    "relatedEvents.seeAll": "See all",
+    "ticketModal.closeTicket": "Close ticket",
+    "ticketModal.nameLabel": "Name",
+    "ticketModal.groupLabel": "Group",
+    "ticketModal.download": "Download",
+    "footer.meetupOnFacebook": "Meetup on Facebook",
+    "footer.meetupOnTwitter": "Meetup on X",
+    "footer.meetupOnYoutube": "Meetup on YouTube",
+    "footer.meetupOnInstagram": "Instagram",
+    "footer.meetupOnTiktok": "TikTok",
+    "footer.thePeoplePlatform": "The <red>people</red> platform",
+    "footer.createYourOwnMeetupGroup": "Create your own Meetup group",
+    "footer.startNewGroup": "Start a new group",
+    "footer.yourAccount": "Your account",
+    "footer.signUp": "Sign up",
+    "footer.logIn": "Log in",
+    "footer.help": "Help",
+    "footer.discover": "Discover",
+    "footer.groups": "Groups",
+    "footer.events": "Events",
+    "footer.topics": "Topics",
+    "footer.cities": "Cities",
+    "footer.onlineEvents": "Online events",
+    "footer.localGuides": "Local guides",
+    "footer.makeFriendsLp": "Make friends",
+    "footer.sitemap": "Sitemap",
+    "footer.meetupText": "Meetup",
+    "footer.about": "About",
+    "footer.blog": "Blog",
+    "footer.meetupPro": "Meetup Pro",
+    "footer.careers": "Careers",
+    "footer.apps": "Apps",
+    "footer.podcast": "Podcast",
+    "footer.followUs": "Follow us",
+    "footer.getTheApp": "Get the app",
+    "mobileDownloadButtons.downloadFromGooglePlay": "Download app from Google Play",
+    "mobileDownloadButtons.downloadFromAppStore": "Download app from App Store",
+    "mobileDownloadButtons.downloadOnStore": "Download on",
+    "footer.termsOfService": "Terms of service",
+    "footer.privacyPolicy": "Privacy policy",
+    "footer.cookiePolicy": "Cookie policy",
+    "footer.licenseAttribution": "License attribution",
+    "footer.legalInfo": "Bending Spoons Operations S.p.A. | Sole shareholder company subject to the management and coordination of Bending Spoons S.p.A. | Via Nino Bonnet 10, 20154, Milan, Italy | VAT, tax code, and number of registration with the Milan Monza Brianza Lodi Company Register 13368510965 | REA number MI 2718456 | Contributed capital €150.000,00 fully paid-in",
+    "footer.madeWithLoveBy": "Made with {love} by"
+   },
+   "country": "IN",
+   "eventId": "311095399",
+   "groupNameLowerCase": "nycpython",
+   "event": {
+    "__typename": "Event",
+    "id": "311095399",
+    "attendanceForecast": null,
+    "token": "311095399",
+    "title": "NYC Python x PyData NYC: 🗲 Talk Night at Datadog! 🗲",
+    "description": "Join us for an evening of technical presentations featuring two exciting talks on simulation and database observability!\n\n📅 **Date:** Tuesday, October 1, 2025\n🕕 **Time:** 6:00 PM - 8:00 PM\n📍 **Venue:** Datadog NYC Office\n🎥 **Recording:** This event will be recorded, including Q&A\n\nAgenda:\n\n🎤 **Talk 1: Observability-Based Index Recommendations - Alex Weisberger**\n\nAlex, a full stack software engineer at Datadog, will discuss database observability and index optimization techniques.\n\n**Speaker Bio - Alex Weisberger**:\nAlex is a full stack software engineer at Datadog with experience across diverse environments including trucking navigation, sheet music recognition, karaoke apps, payment processing, commercial real estate SaaS, and database observability. Passionate about correctness and reliability, with expertise in [TLA+](https://en.wikipedia.org/wiki/TLA%2B), property-based testing, and discrete event simulation.\n\n🎤 **Talk 2: Persona Based Evaluation of Search Systems - Uri Goren**\n\nSearch evaluation is notoriously complex, with even minor tweaks to hyperparameters or embeddings creating widespread ripple effects across retrieved results. Mitigating this inherent “instability” in search algorithm changes has long been a challenge. Traditional approaches, such as composing test cases, offer a degree of control and consistency. However, writing and maintaining test cases is a painstaking task, particularly in dynamic environments where catalogs are constantly updated with new items. Our proposed method introduces a groundbreaking solution: leveraging user modeling inspired by the “LLM as a judge” paradigm to automate query and result-set generation. This approach dynamically creates realistic query-result pairs by simulating diverse user personas, each designed to evaluate different modalities (image, video, audio) within the catalog under varying prompts.\n\nThe innovation lies in the adaptability and efficiency of the system:\n\n* Dynamic Test Coverage: Personas adapt to catalog changes, ensuring that new items are immediately evaluated without manual intervention.\n* Multi-Modality Testing: By supporting multiple content types, the system mirrors the diversity of modern search use cases.\n* Fully Automated Pipeline: The process eliminates the need for manually written test cases, reducing overhead and accelerating iteration cycles.\n\nThis talk will provide an in-depth look at the methodology, the benefits of dynamic user modeling, and real-world results from applying this system. Attendees will leave with actionable insights into transforming their search evaluation strategies, unlocking new levels of stability and precision in their algorithms.\n\n🎤 **Talk 3: Building a language learning app with GenAI - Emma Saroyan**\n\nEmma Saroyan, the co-author of the book Generative AI for Web Development, will give a practical talk on GenAI. She will do a step by step walkthrough of building an app with OpenAI APIs and Next.js.\nShe will show the capabilities as well as the limitations of using GenAI for web development.\n\n***\n\n⚠️ **Registration:** Please register here by September 30th at 12:00 PM as we need to give the guest list to security in advance. Please make sure you are using your real name (check your ID) to speed up the process of getting in.\n\nThis event is open to all levels. Newcomers and beginners are welcome. All NYC Python events are governed by our Code of Conduct.",
+    "eventUrl": "https://www.meetup.com/nycpython/events/311095399/",
+    "status": "PAST",
+    "eventType": "PHYSICAL",
+    "featuredEventPhoto": null,
+    "displayPhoto": {
+     "__typename": "PhotoInfo",
+     "id": "445933726",
+     "source": "https://secure.meetupstatic.com/photos/event/3/5/9/e/highres_445933726.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "eventHosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "192543418",
+      "id": "192543418",
+      "name": "AJ Khan",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": null
+     }
+    ],
+    "dateTime": "2025-10-01T18:00:00-04:00",
+    "endTime": "2025-10-01T20:00:00-04:00",
+    "isFeatured": false,
+    "venue": {
+     "__typename": "Venue",
+     "id": "25767595",
+     "googleMapsUrl": null,
+     "name": "Datadog",
+     "address": "New York Times Bldg, 620 8th Avenue, 45th Floor",
+     "city": "New York",
+     "state": "NY",
+     "country": "US",
+     "lat": 40.7561,
+     "lng": -73.99019
+    },
+    "maxTickets": 120,
+    "series": null,
+    "rsvps": {
+     "__typename": "RsvpConnection",
+     "totalCount": 5
+    },
+    "waitingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 5
+    },
+    "goingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 106
+    },
+    "waitlistMode": "AUTO",
+    "guestsAllowed": false,
+    "numberOfAllowedGuests": 0,
+    "proCompleteRsvp": null,
+    "topics": {
+     "__typename": "TopicsConnection",
+     "edges": []
+    },
+    "rsvpSettings": {
+     "__typename": "RsvpOpenSettings",
+     "rsvpOpenTime": null,
+     "rsvpCloseTime": "2025-09-30T12:00:00-04:00"
+    },
+    "covidPrecautions": {
+     "__typename": "CovidPrecautions",
+     "masks": null,
+     "vaccinations": null,
+     "details": null,
+     "venueType": null
+    },
+    "isNetworkEvent": false,
+    "isEventChatEnabled": false,
+    "externalChat": null,
+    "hosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "192543418",
+      "id": "192543418",
+      "name": "AJ Khan",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": null
+     }
+    ],
+    "feeSettings": null,
+    "networkEvent": null,
+    "speakerDetails": null,
+    "socialProofInsights": null,
+    "group": {
+     "__typename": "Group",
+     "id": "263790",
+     "name": "The New York Python Meetup Group",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/nycpython",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__typename": "TopicCategory",
+      "id": "546",
+      "name": "Technology",
+      "urlkey": "technology"
+     },
+     "topics": [
+      {
+       "__typename": "Topic",
+       "id": "1064",
+       "urlkey": "python",
+       "name": "Python"
+      },
+      {
+       "__typename": "Topic",
+       "id": "120095",
+       "urlkey": "software-development",
+       "name": "Software Development"
+      },
+      {
+       "__typename": "Topic",
+       "id": "8192",
+       "urlkey": "open-source",
+       "name": "Open Source"
+      },
+      {
+       "__typename": "Topic",
+       "id": "32528",
+       "urlkey": "computer-programming",
+       "name": "Computer Programming"
+      },
+      {
+       "__typename": "Topic",
+       "id": "917242",
+       "urlkey": "python-web-development",
+       "name": "Python Web Development"
+      },
+      {
+       "__typename": "Topic",
+       "id": "15582",
+       "urlkey": "web-development",
+       "name": "Web Development"
+      },
+      {
+       "__typename": "Topic",
+       "id": "10553",
+       "urlkey": "django",
+       "name": "Django"
+      }
+     ],
+     "urlname": "nycpython",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": null,
+     "proNetwork": null,
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 17375
+      }
+     },
+     "needsQuestions": null,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "groupPhoto": {
+      "__typename": "PhotoInfo",
+      "id": "445933726",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "source": "https://secure.meetupstatic.com/photos/event/3/5/9/e/highres_445933726.jpeg"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "sponsoredUntil": null,
+    "komootUrl": null,
+    "timezone": "America/New_York",
+    "waiting": 5,
+    "timeStatus": "ENDED",
+    "host": {
+     "__typename": "EventHost",
+     "memberId": "192543418",
+     "id": "192543418",
+     "name": "AJ Khan",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": null
+    },
+    "currency": "USD"
+   },
+   "__APOLLO_STATE__": {
+    "PhotoInfo:445933726": {
+     "__typename": "PhotoInfo",
+     "id": "445933726",
+     "highResUrl": "https://secure.meetupstatic.com/photos/event/3/5/9/e/highres_445933726.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "EventHost:192543418": {
+     "__typename": "EventHost",
+     "memberId": "192543418",
+     "name": "AJ Khan",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": null,
+     "id": "192543418"
+    },
+    "Venue:25767595": {
+     "__typename": "Venue",
+     "id": "25767595",
+     "googleMapsUrl": null,
+     "name": "Datadog",
+     "address": "New York Times Bldg, 620 8th Avenue, 45th Floor",
+     "city": "New York",
+     "state": "NY",
+     "country": "US",
+     "lat": 40.7561,
+     "lon": -73.99019
+    },
+    "TopicCategory:546": {
+     "__typename": "TopicCategory",
+     "id": "546",
+     "name": "Technology",
+     "urlkey": "technology"
+    },
+    "Topic:1064": {
+     "__typename": "Topic",
+     "id": "1064",
+     "urlkey": "python",
+     "name": "Python"
+    },
+    "Topic:120095": {
+     "__typename": "Topic",
+     "id": "120095",
+     "urlkey": "software-development",
+     "name": "Software Development"
+    },
+    "Topic:8192": {
+     "__typename": "Topic",
+     "id": "8192",
+     "urlkey": "open-source",
+     "name": "Open Source"
+    },
+    "Topic:32528": {
+     "__typename": "Topic",
+     "id": "32528",
+     "urlkey": "computer-programming",
+     "name": "Computer Programming"
+    },
+    "Topic:917242": {
+     "__typename": "Topic",
+     "id": "917242",
+     "urlkey": "python-web-development",
+     "name": "Python Web Development"
+    },
+    "Topic:15582": {
+     "__typename": "Topic",
+     "id": "15582",
+     "urlkey": "web-development",
+     "name": "Web Development"
+    },
+    "Topic:10553": {
+     "__typename": "Topic",
+     "id": "10553",
+     "urlkey": "django",
+     "name": "Django"
+    },
+    "Group:263790": {
+     "__typename": "Group",
+     "id": "263790",
+     "name": "The New York Python Meetup Group",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/nycpython",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__ref": "TopicCategory:546"
+     },
+     "activeTopics": [
+      {
+       "__ref": "Topic:1064"
+      },
+      {
+       "__ref": "Topic:120095"
+      },
+      {
+       "__ref": "Topic:8192"
+      },
+      {
+       "__ref": "Topic:32528"
+      },
+      {
+       "__ref": "Topic:917242"
+      },
+      {
+       "__ref": "Topic:15582"
+      },
+      {
+       "__ref": "Topic:10553"
+      }
+     ],
+     "urlname": "nycpython",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": null,
+     "proNetwork": null,
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 17375
+      }
+     },
+     "needsQuestions": null,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "keyGroupPhoto": {
+      "__ref": "PhotoInfo:445933726"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "Event:311095399": {
+     "__typename": "Event",
+     "id": "311095399",
+     "attendanceForecast": null,
+     "token": "311095399",
+     "title": "NYC Python x PyData NYC: 🗲 Talk Night at Datadog! 🗲",
+     "description": "Join us for an evening of technical presentations featuring two exciting talks on simulation and database observability!\n\n📅 **Date:** Tuesday, October 1, 2025\n🕕 **Time:** 6:00 PM - 8:00 PM\n📍 **Venue:** Datadog NYC Office\n🎥 **Recording:** This event will be recorded, including Q&A\n\nAgenda:\n\n🎤 **Talk 1: Observability-Based Index Recommendations - Alex Weisberger**\n\nAlex, a full stack software engineer at Datadog, will discuss database observability and index optimization techniques.\n\n**Speaker Bio - Alex Weisberger**:\nAlex is a full stack software engineer at Datadog with experience across diverse environments including trucking navigation, sheet music recognition, karaoke apps, payment processing, commercial real estate SaaS, and database observability. Passionate about correctness and reliability, with expertise in [TLA+](https://en.wikipedia.org/wiki/TLA%2B), property-based testing, and discrete event simulation.\n\n🎤 **Talk 2: Persona Based Evaluation of Search Systems - Uri Goren**\n\nSearch evaluation is notoriously complex, with even minor tweaks to hyperparameters or embeddings creating widespread ripple effects across retrieved results. Mitigating this inherent “instability” in search algorithm changes has long been a challenge. Traditional approaches, such as composing test cases, offer a degree of control and consistency. However, writing and maintaining test cases is a painstaking task, particularly in dynamic environments where catalogs are constantly updated with new items. Our proposed method introduces a groundbreaking solution: leveraging user modeling inspired by the “LLM as a judge” paradigm to automate query and result-set generation. This approach dynamically creates realistic query-result pairs by simulating diverse user personas, each designed to evaluate different modalities (image, video, audio) within the catalog under varying prompts.\n\nThe innovation lies in the adaptability and efficiency of the system:\n\n* Dynamic Test Coverage: Personas adapt to catalog changes, ensuring that new items are immediately evaluated without manual intervention.\n* Multi-Modality Testing: By supporting multiple content types, the system mirrors the diversity of modern search use cases.\n* Fully Automated Pipeline: The process eliminates the need for manually written test cases, reducing overhead and accelerating iteration cycles.\n\nThis talk will provide an in-depth look at the methodology, the benefits of dynamic user modeling, and real-world results from applying this system. Attendees will leave with actionable insights into transforming their search evaluation strategies, unlocking new levels of stability and precision in their algorithms.\n\n🎤 **Talk 3: Building a language learning app with GenAI - Emma Saroyan**\n\nEmma Saroyan, the co-author of the book Generative AI for Web Development, will give a practical talk on GenAI. She will do a step by step walkthrough of building an app with OpenAI APIs and Next.js.\nShe will show the capabilities as well as the limitations of using GenAI for web development.\n\n***\n\n⚠️ **Registration:** Please register here by September 30th at 12:00 PM as we need to give the guest list to security in advance. Please make sure you are using your real name (check your ID) to speed up the process of getting in.\n\nThis event is open to all levels. Newcomers and beginners are welcome. All NYC Python events are governed by our Code of Conduct.",
+     "eventUrl": "https://www.meetup.com/nycpython/events/311095399/",
+     "status": "PAST",
+     "eventType": "PHYSICAL",
+     "featuredEventPhoto": null,
+     "displayPhoto": {
+      "__ref": "PhotoInfo:445933726"
+     },
+     "eventHosts": [
+      {
+       "__ref": "EventHost:192543418"
+      }
+     ],
+     "dateTime": "2025-10-01T18:00:00-04:00",
+     "endTime": "2025-10-01T20:00:00-04:00",
+     "isFeatured": false,
+     "venue": {
+      "__ref": "Venue:25767595"
+     },
+     "maxTickets": 120,
+     "series": null,
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"WAITLIST\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 5
+     },
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"YES\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 106
+     },
+     "waitlistMode": "AUTO",
+     "guestsAllowed": false,
+     "numberOfAllowedGuests": 0,
+     "proCompleteRsvp": null,
+     "topics": {
+      "__typename": "TopicsConnection",
+      "edges": []
+     },
+     "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpOpenTime": null,
+      "rsvpCloseTime": "2025-09-30T12:00:00-04:00"
+     },
+     "covidPrecautions": {
+      "__typename": "CovidPrecautions",
+      "masks": null,
+      "vaccinations": null,
+      "details": null,
+      "venueType": null
+     },
+     "isNetworkEvent": false,
+     "isEventChatEnabled": false,
+     "externalChat": null,
+     "feeSettings": null,
+     "networkEvent": null,
+     "speakerDetails": null,
+     "socialProofInsights": null,
+     "group": {
+      "__ref": "Group:263790"
+     },
+     "sponsoredUntil": null,
+     "komootUrl": null
+    },
+    "ROOT_QUERY": {
+     "__typename": "Query",
+     "event({\"id\":\"311095399\"})": {
+      "__ref": "Event:311095399"
+     }
+    }
+   },
+   "_sentryTraceData": "7e97858b00423b944a45b06963c93053-3de0982769605d58-0",
+   "_sentryBaggage": "sentry-environment=production,sentry-release=49c0734fc933ebd9f147e96038f608ad12d30e9e,sentry-public_key=5d12cd2317664353456ab4c40d079af2,sentry-trace_id=7e97858b00423b944a45b06963c93053,sentry-org_id=6787,sentry-sampled=false,sentry-sample_rand=0.06114794601297047,sentry-sample_rate=0.01"
+  },
+  "__N_SSP": true
+ },
+ "page": "/[slug]/events/[eventId]",
+ "query": {
+  "slug": "nycpython",
+  "eventId": "311095399"
+ },
+ "buildId": "49c0734fc933ebd9f147e96038f608ad12d30e9e",
+ "isFallback": false,
+ "isExperimentalCompile": false,
+ "gssp": true,
+ "locale": "en-US",
+ "locales": [
+  "en-US",
+  "en-AU",
+  "de",
+  "de-DE",
+  "es",
+  "es-ES",
+  "fr",
+  "fr-FR",
+  "it",
+  "it-IT",
+  "ja",
+  "ja-JP",
+  "ko",
+  "ko-KR",
+  "nl",
+  "nl-NL",
+  "pl",
+  "pl-PL",
+  "pt",
+  "pt-BR",
+  "ru",
+  "ru-RU",
+  "tr",
+  "tr-TR",
+  "th-TH"
+ ],
+ "defaultLocale": "en-US",
+ "scriptLoader": []
+}

@@ -1,0 +1,832 @@
+{
+ "props": {
+  "pageProps": {
+   "isMobile": false,
+   "showMobileBanner": true,
+   "memberLocale": "en-US",
+   "localeMessages": {
+    "organizerUpgradeModal2.upgradeToTier": "Upgrade to {tier}",
+    "sendEmailModal.subject": "Subject",
+    "sendEmailModal.message": "Message",
+    "sendEmailModal.send": "Send",
+    "sendEmailModal.cancel": "Cancel",
+    "comparisonLikePaywall.continue": "Continue",
+    "a11y.skipToContent": "Skip to content",
+    "desktopHeader.homepage": "Homepage",
+    "desktopSearch.searchEvents": "Search events...",
+    "searchLocationTypeahead.placeholder": "Neighborhood, city or zip",
+    "searchLocationTypeahead.searchLocationByCityOrZip": "Search for location by city or zip code",
+    "seo.allEvents": "All events",
+    "seo.eventsIn": "Events in {name}",
+    "seoHeader.defaultDescription2": "Find Meetup events so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.",
+    "event.info.only1Host": "{HOST_1}",
+    "eventHome.privateGroupTooltip": "Only members of this group can see its full content, including details about its members and events. Some information about the group is public.",
+    "eventHome.learnMore": "Learn more",
+    "eventHome.privateGroup": "Private group",
+    "EventInfoCard.TimeInfo.durationFromHourToHour": "{FROM_DATE} to {END_DATE}",
+    "EventInfoCard.PhysicalEventInfo.locationHidden": "Location visible to members",
+    "EventDetailsContainer.details": "Details",
+    "ContentBlocked.contentAvailableToMembers": "This content is available only to members",
+    "event.descriptionEventAbuseReportLink_v2": "Report event",
+    "relatedEvents.findMoreEventsVariantV2": "You may also like",
+    "relatedEvents.seeAll": "See all",
+    "ticketModal.closeTicket": "Close ticket",
+    "ticketModal.nameLabel": "Name",
+    "ticketModal.groupLabel": "Group",
+    "ticketModal.download": "Download",
+    "footer.meetupOnFacebook": "Meetup on Facebook",
+    "footer.meetupOnTwitter": "Meetup on X",
+    "footer.meetupOnYoutube": "Meetup on YouTube",
+    "footer.meetupOnInstagram": "Instagram",
+    "footer.meetupOnTiktok": "TikTok",
+    "footer.thePeoplePlatform": "The <red>people</red> platform",
+    "footer.createYourOwnMeetupGroup": "Create your own Meetup group",
+    "footer.startNewGroup": "Start a new group",
+    "footer.yourAccount": "Your account",
+    "footer.signUp": "Sign up",
+    "footer.logIn": "Log in",
+    "footer.help": "Help",
+    "footer.discover": "Discover",
+    "footer.groups": "Groups",
+    "footer.events": "Events",
+    "footer.topics": "Topics",
+    "footer.cities": "Cities",
+    "footer.onlineEvents": "Online events",
+    "footer.localGuides": "Local guides",
+    "footer.makeFriendsLp": "Make friends",
+    "footer.sitemap": "Sitemap",
+    "footer.meetupText": "Meetup",
+    "footer.about": "About",
+    "footer.blog": "Blog",
+    "footer.meetupPro": "Meetup Pro",
+    "footer.careers": "Careers",
+    "footer.apps": "Apps",
+    "footer.podcast": "Podcast",
+    "footer.followUs": "Follow us",
+    "footer.getTheApp": "Get the app",
+    "mobileDownloadButtons.downloadFromGooglePlay": "Download app from Google Play",
+    "mobileDownloadButtons.downloadFromAppStore": "Download app from App Store",
+    "mobileDownloadButtons.downloadOnStore": "Download on",
+    "footer.termsOfService": "Terms of service",
+    "footer.privacyPolicy": "Privacy policy",
+    "footer.cookiePolicy": "Cookie policy",
+    "footer.licenseAttribution": "License attribution",
+    "footer.legalInfo": "Bending Spoons Operations S.p.A. | Sole shareholder company subject to the management and coordination of Bending Spoons S.p.A. | Via Nino Bonnet 10, 20154, Milan, Italy | VAT, tax code, and number of registration with the Milan Monza Brianza Lodi Company Register 13368510965 | REA number MI 2718456 | Contributed capital €150.000,00 fully paid-in",
+    "footer.madeWithLoveBy": "Made with {love} by"
+   },
+   "country": "IN",
+   "eventId": "317368601",
+   "groupNameLowerCase": "funnewyork",
+   "event": {
+    "__typename": "Event",
+    "id": "317368601",
+    "attendanceForecast": null,
+    "token": "317368601",
+    "title": "High Line & Hudson Yards Singles Date Walk (20s, 30s, 40s)",
+    "description": "",
+    "eventUrl": "https://www.meetup.com/funnewyork/events/317368601/",
+    "status": "ACTIVE",
+    "eventType": "PHYSICAL",
+    "featuredEventPhoto": null,
+    "displayPhoto": null,
+    "eventHosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "202153686",
+      "id": "202153686",
+      "name": null,
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": true,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "255078681"
+      }
+     }
+    ],
+    "dateTime": "2026-11-21T16:00:00-05:00",
+    "endTime": "2026-11-21T17:30:00-05:00",
+    "isFeatured": false,
+    "venue": null,
+    "maxTickets": 0,
+    "series": null,
+    "rsvps": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "waitingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "goingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 16
+    },
+    "waitlistMode": "AUTO",
+    "guestsAllowed": true,
+    "numberOfAllowedGuests": 5,
+    "proCompleteRsvp": null,
+    "topics": {
+     "__typename": "TopicsConnection",
+     "edges": []
+    },
+    "rsvpSettings": {
+     "__typename": "RsvpOpenSettings",
+     "rsvpOpenTime": null,
+     "rsvpCloseTime": null
+    },
+    "covidPrecautions": {
+     "__typename": "CovidPrecautions",
+     "masks": null,
+     "vaccinations": null,
+     "details": null,
+     "venueType": null
+    },
+    "isNetworkEvent": false,
+    "isEventChatEnabled": false,
+    "externalChat": null,
+    "hosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "202153686",
+      "id": "202153686",
+      "name": null,
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": true,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "255078681"
+      }
+     }
+    ],
+    "feeSettings": null,
+    "networkEvent": null,
+    "speakerDetails": null,
+    "socialProofInsights": {
+     "__typename": "SocialProofInsights",
+     "isTrendingEvent": false,
+     "totalInterestedUsers": 45,
+     "interestedUsersSample": [
+      {
+       "__typename": "Member",
+       "id": "3520881",
+       "name": "Roberto Herrera",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "54550852",
+        "source": "https://secure.meetupstatic.com/photos/member/2/a/6/4/highres_54550852.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "4649710",
+       "name": "Priti Saldanha",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "267508765",
+        "source": "https://secure.meetupstatic.com/photos/member/7/0/5/d/highres_267508765.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "5961101",
+       "name": "Mahesh Chandwani",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "3034795",
+        "source": "https://secure.meetupstatic.com/photos/member/8/7/e/b/highres_3034795.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "7206170",
+       "name": "vik",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "12162874",
+        "source": "https://secure.meetupstatic.com/photos/member/a/7/7/a/highres_12162874.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "3129416",
+       "name": "Allyna",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "100990132",
+        "source": "https://secure.meetupstatic.com/photos/member/2/7/9/4/highres_100990132.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "7216359",
+       "name": "Robin",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "113678222",
+        "source": "https://secure.meetupstatic.com/photos/member/9/5/4/e/highres_113678222.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "2689012",
+       "name": "Bernaldo",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "19503941",
+        "source": "https://secure.meetupstatic.com/photos/member/f/6/5/highres_19503941.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      }
+     ]
+    },
+    "group": {
+     "__typename": "Group",
+     "id": "1261788",
+     "name": "# 1 Fun in New York And The World!!",
+     "isPrivate": true,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/funnewyork",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__typename": "TopicCategory",
+      "id": "612",
+      "name": "Dancing",
+      "urlkey": "dancing"
+     },
+     "topics": [
+      {
+       "__typename": "Topic",
+       "id": "16048",
+       "urlkey": "new-in-town",
+       "name": "New In Town"
+      },
+      {
+       "__typename": "Topic",
+       "id": "26138",
+       "urlkey": "dating-and-relationships",
+       "name": "Dating and Relationships"
+      },
+      {
+       "__typename": "Topic",
+       "id": "602092",
+       "urlkey": "latin-music",
+       "name": "Latin Music"
+      },
+      {
+       "__typename": "Topic",
+       "id": "17390",
+       "urlkey": "entrepreneurship",
+       "name": "Entrepreneurship"
+      },
+      {
+       "__typename": "Topic",
+       "id": "3998",
+       "urlkey": "ballroom",
+       "name": "Ballroom"
+      },
+      {
+       "__typename": "Topic",
+       "id": "17293",
+       "urlkey": "fitness",
+       "name": "Fitness"
+      },
+      {
+       "__typename": "Topic",
+       "id": "14657",
+       "urlkey": "social",
+       "name": "Social"
+      },
+      {
+       "__typename": "Topic",
+       "id": "33541",
+       "urlkey": "salsa",
+       "name": "Salsa"
+      },
+      {
+       "__typename": "Topic",
+       "id": "28904",
+       "urlkey": "dancing",
+       "name": "Dancing"
+      },
+      {
+       "__typename": "Topic",
+       "id": "16688",
+       "urlkey": "singles",
+       "name": "Singles"
+      },
+      {
+       "__typename": "Topic",
+       "id": "20148",
+       "urlkey": "social-networking",
+       "name": "Social Networking"
+      },
+      {
+       "__typename": "Topic",
+       "id": "18647",
+       "urlkey": "nightlife",
+       "name": "Nightlife"
+      },
+      {
+       "__typename": "Topic",
+       "id": "1239522",
+       "urlkey": "happy-hour",
+       "name": "Happy Hour"
+      }
+     ],
+     "urlname": "funnewyork",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": false,
+     "proNetwork": null,
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 12390
+      }
+     },
+     "needsQuestions": false,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "groupPhoto": {
+      "__typename": "PhotoInfo",
+      "id": "509375912",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "source": "https://secure.meetupstatic.com/photos/event/8/c/4/8/highres_509375912.jpeg"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "sponsoredUntil": null,
+    "komootUrl": null,
+    "timezone": "America/New_York",
+    "waiting": 0,
+    "timeStatus": "UPCOMING",
+    "host": {
+     "__typename": "EventHost",
+     "memberId": "202153686",
+     "id": "202153686",
+     "name": null,
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": true,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__typename": "PhotoInfo",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+      "id": "255078681"
+     }
+    },
+    "currency": "USD"
+   },
+   "__APOLLO_STATE__": {
+    "PhotoInfo:255078681": {
+     "__typename": "PhotoInfo",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+     "id": "255078681"
+    },
+    "EventHost:202153686": {
+     "__typename": "EventHost",
+     "memberId": "202153686",
+     "name": null,
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": true,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__ref": "PhotoInfo:255078681"
+     },
+     "id": "202153686"
+    },
+    "PhotoInfo:54550852": {
+     "__typename": "PhotoInfo",
+     "id": "54550852",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/2/a/6/4/highres_54550852.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:3520881": {
+     "__typename": "Member",
+     "id": "3520881",
+     "name": "Roberto Herrera",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:54550852"
+     }
+    },
+    "PhotoInfo:267508765": {
+     "__typename": "PhotoInfo",
+     "id": "267508765",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/7/0/5/d/highres_267508765.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:4649710": {
+     "__typename": "Member",
+     "id": "4649710",
+     "name": "Priti Saldanha",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:267508765"
+     }
+    },
+    "PhotoInfo:3034795": {
+     "__typename": "PhotoInfo",
+     "id": "3034795",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/8/7/e/b/highres_3034795.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:5961101": {
+     "__typename": "Member",
+     "id": "5961101",
+     "name": "Mahesh Chandwani",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:3034795"
+     }
+    },
+    "PhotoInfo:12162874": {
+     "__typename": "PhotoInfo",
+     "id": "12162874",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/a/7/7/a/highres_12162874.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:7206170": {
+     "__typename": "Member",
+     "id": "7206170",
+     "name": "vik",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:12162874"
+     }
+    },
+    "PhotoInfo:100990132": {
+     "__typename": "PhotoInfo",
+     "id": "100990132",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/2/7/9/4/highres_100990132.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:3129416": {
+     "__typename": "Member",
+     "id": "3129416",
+     "name": "Allyna",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:100990132"
+     }
+    },
+    "PhotoInfo:113678222": {
+     "__typename": "PhotoInfo",
+     "id": "113678222",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/9/5/4/e/highres_113678222.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:7216359": {
+     "__typename": "Member",
+     "id": "7216359",
+     "name": "Robin",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:113678222"
+     }
+    },
+    "PhotoInfo:19503941": {
+     "__typename": "PhotoInfo",
+     "id": "19503941",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/f/6/5/highres_19503941.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:2689012": {
+     "__typename": "Member",
+     "id": "2689012",
+     "name": "Bernaldo",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:19503941"
+     }
+    },
+    "TopicCategory:612": {
+     "__typename": "TopicCategory",
+     "id": "612",
+     "name": "Dancing",
+     "urlkey": "dancing"
+    },
+    "Topic:16048": {
+     "__typename": "Topic",
+     "id": "16048",
+     "urlkey": "new-in-town",
+     "name": "New In Town"
+    },
+    "Topic:26138": {
+     "__typename": "Topic",
+     "id": "26138",
+     "urlkey": "dating-and-relationships",
+     "name": "Dating and Relationships"
+    },
+    "Topic:602092": {
+     "__typename": "Topic",
+     "id": "602092",
+     "urlkey": "latin-music",
+     "name": "Latin Music"
+    },
+    "Topic:17390": {
+     "__typename": "Topic",
+     "id": "17390",
+     "urlkey": "entrepreneurship",
+     "name": "Entrepreneurship"
+    },
+    "Topic:3998": {
+     "__typename": "Topic",
+     "id": "3998",
+     "urlkey": "ballroom",
+     "name": "Ballroom"
+    },
+    "Topic:17293": {
+     "__typename": "Topic",
+     "id": "17293",
+     "urlkey": "fitness",
+     "name": "Fitness"
+    },
+    "Topic:14657": {
+     "__typename": "Topic",
+     "id": "14657",
+     "urlkey": "social",
+     "name": "Social"
+    },
+    "Topic:33541": {
+     "__typename": "Topic",
+     "id": "33541",
+     "urlkey": "salsa",
+     "name": "Salsa"
+    },
+    "Topic:28904": {
+     "__typename": "Topic",
+     "id": "28904",
+     "urlkey": "dancing",
+     "name": "Dancing"
+    },
+    "Topic:16688": {
+     "__typename": "Topic",
+     "id": "16688",
+     "urlkey": "singles",
+     "name": "Singles"
+    },
+    "Topic:20148": {
+     "__typename": "Topic",
+     "id": "20148",
+     "urlkey": "social-networking",
+     "name": "Social Networking"
+    },
+    "Topic:18647": {
+     "__typename": "Topic",
+     "id": "18647",
+     "urlkey": "nightlife",
+     "name": "Nightlife"
+    },
+    "Topic:1239522": {
+     "__typename": "Topic",
+     "id": "1239522",
+     "urlkey": "happy-hour",
+     "name": "Happy Hour"
+    },
+    "PhotoInfo:509375912": {
+     "__typename": "PhotoInfo",
+     "id": "509375912",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+     "highResUrl": "https://secure.meetupstatic.com/photos/event/8/c/4/8/highres_509375912.jpeg"
+    },
+    "Group:1261788": {
+     "__typename": "Group",
+     "id": "1261788",
+     "name": "# 1 Fun in New York And The World!!",
+     "isPrivate": true,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/funnewyork",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__ref": "TopicCategory:612"
+     },
+     "activeTopics": [
+      {
+       "__ref": "Topic:16048"
+      },
+      {
+       "__ref": "Topic:26138"
+      },
+      {
+       "__ref": "Topic:602092"
+      },
+      {
+       "__ref": "Topic:17390"
+      },
+      {
+       "__ref": "Topic:3998"
+      },
+      {
+       "__ref": "Topic:17293"
+      },
+      {
+       "__ref": "Topic:14657"
+      },
+      {
+       "__ref": "Topic:33541"
+      },
+      {
+       "__ref": "Topic:28904"
+      },
+      {
+       "__ref": "Topic:16688"
+      },
+      {
+       "__ref": "Topic:20148"
+      },
+      {
+       "__ref": "Topic:18647"
+      },
+      {
+       "__ref": "Topic:1239522"
+      }
+     ],
+     "urlname": "funnewyork",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": false,
+     "proNetwork": null,
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 12390
+      }
+     },
+     "needsQuestions": false,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "keyGroupPhoto": {
+      "__ref": "PhotoInfo:509375912"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "Event:317368601": {
+     "__typename": "Event",
+     "id": "317368601",
+     "attendanceForecast": null,
+     "token": "317368601",
+     "title": "High Line & Hudson Yards Singles Date Walk (20s, 30s, 40s)",
+     "description": "",
+     "eventUrl": "https://www.meetup.com/funnewyork/events/317368601/",
+     "status": "ACTIVE",
+     "eventType": "PHYSICAL",
+     "featuredEventPhoto": null,
+     "displayPhoto": null,
+     "eventHosts": [
+      {
+       "__ref": "EventHost:202153686"
+      }
+     ],
+     "dateTime": "2026-11-21T16:00:00-05:00",
+     "endTime": "2026-11-21T17:30:00-05:00",
+     "isFeatured": false,
+     "venue": null,
+     "maxTickets": 0,
+     "series": null,
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"WAITLIST\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 0
+     },
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"YES\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 16
+     },
+     "waitlistMode": "AUTO",
+     "guestsAllowed": true,
+     "numberOfAllowedGuests": 5,
+     "proCompleteRsvp": null,
+     "topics": {
+      "__typename": "TopicsConnection",
+      "edges": []
+     },
+     "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpOpenTime": null,
+      "rsvpCloseTime": null
+     },
+     "covidPrecautions": {
+      "__typename": "CovidPrecautions",
+      "masks": null,
+      "vaccinations": null,
+      "details": null,
+      "venueType": null
+     },
+     "isNetworkEvent": false,
+     "isEventChatEnabled": false,
+     "externalChat": null,
+     "feeSettings": null,
+     "networkEvent": null,
+     "speakerDetails": null,
+     "socialProofInsights": {
+      "__typename": "SocialProofInsights",
+      "isTrendingEvent": false,
+      "totalInterestedUsers": 45,
+      "interestedUsersSample": [
+       {
+        "__ref": "Member:3520881"
+       },
+       {
+        "__ref": "Member:4649710"
+       },
+       {
+        "__ref": "Member:5961101"
+       },
+       {
+        "__ref": "Member:7206170"
+       },
+       {
+        "__ref": "Member:3129416"
+       },
+       {
+        "__ref": "Member:7216359"
+       },
+       {
+        "__ref": "Member:2689012"
+       }
+      ]
+     },
+     "group": {
+      "__ref": "Group:1261788"
+     },
+     "sponsoredUntil": null,
+     "komootUrl": null
+    },
+    "ROOT_QUERY": {
+     "__typename": "Query",
+     "event({\"id\":\"317368601\"})": {
+      "__ref": "Event:317368601"
+     }
+    }
+   },
+   "_sentryTraceData": "0c5806821c86afa05ef0a09c5c4fd43c-9380b8c12156c44c-0",
+   "_sentryBaggage": "sentry-environment=production,sentry-release=49c0734fc933ebd9f147e96038f608ad12d30e9e,sentry-public_key=5d12cd2317664353456ab4c40d079af2,sentry-trace_id=0c5806821c86afa05ef0a09c5c4fd43c,sentry-org_id=6787,sentry-sampled=false,sentry-sample_rand=0.34760372073648216,sentry-sample_rate=0.01"
+  },
+  "__N_SSP": true
+ },
+ "page": "/[slug]/events/[eventId]",
+ "query": {
+  "slug": "funnewyork",
+  "eventId": "317368601"
+ },
+ "buildId": "49c0734fc933ebd9f147e96038f608ad12d30e9e",
+ "isFallback": false,
+ "isExperimentalCompile": false,
+ "gssp": true,
+ "locale": "en-US",
+ "locales": [
+  "en-US",
+  "en-AU",
+  "de",
+  "de-DE",
+  "es",
+  "es-ES",
+  "fr",
+  "fr-FR",
+  "it",
+  "it-IT",
+  "ja",
+  "ja-JP",
+  "ko",
+  "ko-KR",
+  "nl",
+  "nl-NL",
+  "pl",
+  "pl-PL",
+  "pt",
+  "pt-BR",
+  "ru",
+  "ru-RU",
+  "tr",
+  "tr-TR",
+  "th-TH"
+ ],
+ "defaultLocale": "en-US",
+ "scriptLoader": []
+}

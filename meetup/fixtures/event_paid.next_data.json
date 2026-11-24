@@ -1,0 +1,719 @@
+{
+ "props": {
+  "pageProps": {
+   "isMobile": false,
+   "showMobileBanner": true,
+   "memberLocale": "en-US",
+   "localeMessages": {
+    "organizerUpgradeModal2.upgradeToTier": "Upgrade to {tier}",
+    "sendEmailModal.subject": "Subject",
+    "sendEmailModal.message": "Message",
+    "sendEmailModal.send": "Send",
+    "sendEmailModal.cancel": "Cancel",
+    "comparisonLikePaywall.continue": "Continue",
+    "a11y.skipToContent": "Skip to content",
+    "desktopHeader.homepage": "Homepage",
+    "desktopSearch.searchEvents": "Search events...",
+    "searchLocationTypeahead.placeholder": "Neighborhood, city or zip",
+    "searchLocationTypeahead.searchLocationByCityOrZip": "Search for location by city or zip code",
+    "seo.allEvents": "All events",
+    "seo.eventsIn": "Events in {name}",
+    "seo.topicsEvents": "{name} events",
+    "event.info.only1Host": "{HOST_1}",
+    "eventHome.hostedBy": "Hosted by {HOST_NAMES}",
+    "redesign.components.avatar.ariaLabel": "Photo of the user {memberName}",
+    "EventStickyFooter.shareButton.shareThisEvent": "Share this event",
+    "shareButton.eventShareTitle_v2": "Share",
+    "EventInfoCard.EventDateInfo.rsvpCloses": "Registrations close {date}",
+    "EventInfoCard.TimeInfo.durationFromDayToDay": "{FROM_DATE} to {END_DATE}",
+    "EventDetailsContainer.details": "Details",
+    "EventHome.relatedTopics": "Related topics",
+    "EventTags.eventsIn": "Events in {name}",
+    "event.descriptionEventAbuseReportLink_v2": "Report event",
+    "relatedEvents.findMoreEventsVariantV2": "You may also like",
+    "relatedEvents.seeAll": "See all",
+    "ticketModal.closeTicket": "Close ticket",
+    "ticketModal.nameLabel": "Name",
+    "ticketModal.groupLabel": "Group",
+    "ticketModal.download": "Download",
+    "footer.meetupOnFacebook": "Meetup on Facebook",
+    "footer.meetupOnTwitter": "Meetup on X",
+    "footer.meetupOnYoutube": "Meetup on YouTube",
+    "footer.meetupOnInstagram": "Instagram",
+    "footer.meetupOnTiktok": "TikTok",
+    "footer.thePeoplePlatform": "The <red>people</red> platform",
+    "footer.createYourOwnMeetupGroup": "Create your own Meetup group",
+    "footer.startNewGroup": "Start a new group",
+    "footer.yourAccount": "Your account",
+    "footer.signUp": "Sign up",
+    "footer.logIn": "Log in",
+    "footer.help": "Help",
+    "footer.discover": "Discover",
+    "footer.groups": "Groups",
+    "footer.events": "Events",
+    "footer.topics": "Topics",
+    "footer.cities": "Cities",
+    "footer.onlineEvents": "Online events",
+    "footer.localGuides": "Local guides",
+    "footer.makeFriendsLp": "Make friends",
+    "footer.sitemap": "Sitemap",
+    "footer.meetupText": "Meetup",
+    "footer.about": "About",
+    "footer.blog": "Blog",
+    "footer.meetupPro": "Meetup Pro",
+    "footer.careers": "Careers",
+    "footer.apps": "Apps",
+    "footer.podcast": "Podcast",
+    "footer.followUs": "Follow us",
+    "footer.getTheApp": "Get the app",
+    "mobileDownloadButtons.downloadFromGooglePlay": "Download app from Google Play",
+    "mobileDownloadButtons.downloadFromAppStore": "Download app from App Store",
+    "mobileDownloadButtons.downloadOnStore": "Download on",
+    "footer.termsOfService": "Terms of service",
+    "footer.privacyPolicy": "Privacy policy",
+    "footer.cookiePolicy": "Cookie policy",
+    "footer.licenseAttribution": "License attribution",
+    "footer.legalInfo": "Bending Spoons Operations S.p.A. | Sole shareholder company subject to the management and coordination of Bending Spoons S.p.A. | Via Nino Bonnet 10, 20154, Milan, Italy | VAT, tax code, and number of registration with the Milan Monza Brianza Lodi Company Register 13368510965 | REA number MI 2718456 | Contributed capital €150.000,00 fully paid-in",
+    "footer.madeWithLoveBy": "Made with {love} by"
+   },
+   "country": "IN",
+   "eventId": "317161341",
+   "groupNameLowerCase": "web-performance-ny",
+   "event": {
+    "__typename": "Event",
+    "id": "317161341",
+    "attendanceForecast": null,
+    "token": "317161341",
+    "title": "Standards from the Field",
+    "description": "Web developers are constantly pushing the boundaries of the web’s standard capabilities, and that’s by design: our languages are meant to be composed and extended to build websites that do exactly what we need. Sometimes though, our custom solutions highlight deeper challenges with performance and usability that limit us all, and reveal an opportunity for the web’s native capabilities to grow. How do we know when we’ve stumbled upon a common solution, and what does it really look like to move from patterns that work on one website to features that are built into our browsers—particularly if that sort of work is not your main gig?\n\nIn this talk, Scott will share examples of how he and his teammates not only build with web standards, but sometimes help propose, specify, and build those standards themselves. Along the way, he’ll highlight upcoming and newly shipped features that you can use today to deliver faster, more accessible websites, and illuminate the process of how those features came to be.\n\nFor over two decades, [Scott Jehl](https://scottjehl.com/) ([https://bsky.app/profile/scottjehl.com](https://bsky.app/profile/scottjehl.com)) has worked at the intersection of design and front-end technology, leading projects for some of the Web’s most iconic brands. Scott is best known for his work within the web community, advocating for practices and building tools that enable websites to reach the broadest possible audience, and contributing to the specs and implementation of several web standards. These days, he is an engineer at Squarespace in New York City, where his team oversees the performance and accessibility of millions of websites. Scott is the creator of the Web Components Demystified online course (2024), author of Responsible Responsive Design (2014, A Book Apart), and co-author of Designing with Progressive Enhancement (2010, New Riders).\n\nWe will have **food and drinks** and as always, we are going to have **geekaways** with **geeky prizes** provided by our sponsors.\n**Agenda:**\n6:00PM - Arrive at the venue, meet other members\n6:15PM - Event starts\n6:30PM - **Standards from the Field** (Scott Jehl)\n7:15PM - Q&A\n7:45PM - \"Books and Stuff\" geekaways\n8:00PM - Open Discussion, Networking\n\nMake sure to **fill out your legal name** and **bring your ID** to show at security desk.\n\nPlease make sure to allow for additional time to go through security downstairs and be prepared to put all your electronics through security screening. Then take G elevator to 64th floor and transfer to the second bank and take elevator to 88th floor.\n\nInterested in speaking at a NY Web Performance event in the future? Fill out our [speaker application](https://nywebperf.com/speak), or reach out to your organizers with any questions!",
+    "eventUrl": "https://www.meetup.com/web-performance-ny/events/317161341/",
+    "status": "ACTIVE",
+    "eventType": "PHYSICAL",
+    "featuredEventPhoto": {
+     "__typename": "PhotoInfo",
+     "id": "536873670",
+     "source": "https://secure.meetupstatic.com/photos/event/d/1/a/6/highres_536873670.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "displayPhoto": {
+     "__typename": "PhotoInfo",
+     "id": "536873670",
+     "source": "https://secure.meetupstatic.com/photos/event/d/1/a/6/highres_536873670.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "eventHosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "3657777",
+      "id": "3657777",
+      "name": "Sergey Chernyshev",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "1385086"
+      }
+     }
+    ],
+    "dateTime": "2026-12-10T18:00:00-05:00",
+    "endTime": "2026-12-10T21:30:00-05:00",
+    "isFeatured": false,
+    "venue": {
+     "__typename": "Venue",
+     "id": "28431115",
+     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=40.713345,-74.013054",
+     "name": "Cloudflare",
+     "address": "1 World Trade Center 88th Floor, New York, NY 10007, USA",
+     "city": "New York",
+     "state": "NY",
+     "country": "us",
+     "lat": 40.713345,
+     "lng": -74.013054
+    },
+    "maxTickets": 55,
+    "series": null,
+    "rsvps": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "waitingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "goingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 19
+    },
+    "waitlistMode": "OFF",
+    "guestsAllowed": false,
+    "numberOfAllowedGuests": 0,
+    "proCompleteRsvp": null,
+    "topics": {
+     "__typename": "TopicsConnection",
+     "edges": [
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "15091",
+        "name": "Web Performance",
+        "urlkey": "web-performance"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "417",
+        "name": "Web Standards",
+        "urlkey": "web-standards"
+       }
+      }
+     ]
+    },
+    "rsvpSettings": {
+     "__typename": "RsvpOpenSettings",
+     "rsvpOpenTime": "2026-10-27T11:28:00-04:00",
+     "rsvpCloseTime": "2026-12-08T09:00:00-05:00"
+    },
+    "covidPrecautions": {
+     "__typename": "CovidPrecautions",
+     "masks": null,
+     "vaccinations": null,
+     "details": null,
+     "venueType": null
+    },
+    "isNetworkEvent": false,
+    "isEventChatEnabled": false,
+    "externalChat": null,
+    "hosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "3657777",
+      "id": "3657777",
+      "name": "Sergey Chernyshev",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "1385086"
+      }
+     }
+    ],
+    "feeSettings": {
+     "__typename": "EventFeeSettings",
+     "amount": 5,
+     "accepts": "PAYPAL",
+     "required": true,
+     "currency": "USD",
+     "earlyBirdDiscount": null,
+     "hasPromoCodes": true
+    },
+    "networkEvent": null,
+    "speakerDetails": null,
+    "socialProofInsights": null,
+    "group": {
+     "__typename": "Group",
+     "id": "1428523",
+     "name": "New York UX Speed and Web Performance Group",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/web-performance-ny",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__typename": "TopicCategory",
+      "id": "546",
+      "name": "Technology",
+      "urlkey": "technology"
+     },
+     "topics": [
+      {
+       "__typename": "Topic",
+       "id": "15091",
+       "urlkey": "web-performance",
+       "name": "Web Performance"
+      },
+      {
+       "__typename": "Topic",
+       "id": "788002",
+       "urlkey": "web-technology",
+       "name": "Web Technology"
+      },
+      {
+       "__typename": "Topic",
+       "id": "417",
+       "urlkey": "web-standards",
+       "name": "Web Standards"
+      },
+      {
+       "__typename": "Topic",
+       "id": "15582",
+       "urlkey": "web-development",
+       "name": "Web Development"
+      },
+      {
+       "__typename": "Topic",
+       "id": "1504197",
+       "urlkey": "javascript",
+       "name": "JavaScript"
+      },
+      {
+       "__typename": "Topic",
+       "id": "1973",
+       "urlkey": "css",
+       "name": "CSS"
+      },
+      {
+       "__typename": "Topic",
+       "id": "659",
+       "urlkey": "web-design",
+       "name": "Web Design"
+      },
+      {
+       "__typename": "Topic",
+       "id": "18865",
+       "urlkey": "technology",
+       "name": "Technology"
+      },
+      {
+       "__typename": "Topic",
+       "id": "9886",
+       "urlkey": "rich-internet-applications",
+       "name": "Rich Internet Applications"
+      },
+      {
+       "__typename": "Topic",
+       "id": "150844",
+       "urlkey": "php",
+       "name": "PHP"
+      },
+      {
+       "__typename": "Topic",
+       "id": "10102",
+       "urlkey": "internet-professionals",
+       "name": "Internet Professionals"
+      },
+      {
+       "__typename": "Topic",
+       "id": "8192",
+       "urlkey": "open-source",
+       "name": "Open Source"
+      }
+     ],
+     "urlname": "web-performance-ny",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": true,
+     "proNetwork": {
+      "__typename": "ProNetwork",
+      "id": "573453903050895360",
+      "urlname": "web-performance-meetups",
+      "name": "Web Performance Meetups",
+      "link": "https://www.meetup.com/pro/web-performance-meetups/"
+     },
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 5129
+      }
+     },
+     "needsQuestions": false,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "groupPhoto": {
+      "__typename": "PhotoInfo",
+      "id": "494338043",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "source": "https://secure.meetupstatic.com/photos/event/e/2/b/b/highres_494338043.jpeg"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "sponsoredUntil": null,
+    "komootUrl": null,
+    "timezone": "America/New_York",
+    "waiting": 0,
+    "timeStatus": "UPCOMING",
+    "host": {
+     "__typename": "EventHost",
+     "memberId": "3657777",
+     "id": "3657777",
+     "name": "Sergey Chernyshev",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__typename": "PhotoInfo",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+      "id": "1385086"
+     }
+    },
+    "currency": "USD"
+   },
+   "__APOLLO_STATE__": {
+    "PhotoInfo:536873670": {
+     "__typename": "PhotoInfo",
+     "id": "536873670",
+     "highResUrl": "https://secure.meetupstatic.com/photos/event/d/1/a/6/highres_536873670.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "PhotoInfo:1385086": {
+     "__typename": "PhotoInfo",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+     "id": "1385086"
+    },
+    "EventHost:3657777": {
+     "__typename": "EventHost",
+     "memberId": "3657777",
+     "name": "Sergey Chernyshev",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__ref": "PhotoInfo:1385086"
+     },
+     "id": "3657777"
+    },
+    "Venue:28431115": {
+     "__typename": "Venue",
+     "id": "28431115",
+     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=40.713345,-74.013054",
+     "name": "Cloudflare",
+     "address": "1 World Trade Center 88th Floor, New York, NY 10007, USA",
+     "city": "New York",
+     "state": "NY",
+     "country": "us",
+     "lat": 40.713345,
+     "lon": -74.013054
+    },
+    "Topic:15091": {
+     "__typename": "Topic",
+     "id": "15091",
+     "name": "Web Performance",
+     "urlkey": "web-performance"
+    },
+    "Topic:417": {
+     "__typename": "Topic",
+     "id": "417",
+     "name": "Web Standards",
+     "urlkey": "web-standards"
+    },
+    "TopicCategory:546": {
+     "__typename": "TopicCategory",
+     "id": "546",
+     "name": "Technology",
+     "urlkey": "technology"
+    },
+    "Topic:788002": {
+     "__typename": "Topic",
+     "id": "788002",
+     "urlkey": "web-technology",
+     "name": "Web Technology"
+    },
+    "Topic:15582": {
+     "__typename": "Topic",
+     "id": "15582",
+     "urlkey": "web-development",
+     "name": "Web Development"
+    },
+    "Topic:1504197": {
+     "__typename": "Topic",
+     "id": "1504197",
+     "urlkey": "javascript",
+     "name": "JavaScript"
+    },
+    "Topic:1973": {
+     "__typename": "Topic",
+     "id": "1973",
+     "urlkey": "css",
+     "name": "CSS"
+    },
+    "Topic:659": {
+     "__typename": "Topic",
+     "id": "659",
+     "urlkey": "web-design",
+     "name": "Web Design"
+    },
+    "Topic:18865": {
+     "__typename": "Topic",
+     "id": "18865",
+     "urlkey": "technology",
+     "name": "Technology"
+    },
+    "Topic:9886": {
+     "__typename": "Topic",
+     "id": "9886",
+     "urlkey": "rich-internet-applications",
+     "name": "Rich Internet Applications"
+    },
+    "Topic:150844": {
+     "__typename": "Topic",
+     "id": "150844",
+     "urlkey": "php",
+     "name": "PHP"
+    },
+    "Topic:10102": {
+     "__typename": "Topic",
+     "id": "10102",
+     "urlkey": "internet-professionals",
+     "name": "Internet Professionals"
+    },
+    "Topic:8192": {
+     "__typename": "Topic",
+     "id": "8192",
+     "urlkey": "open-source",
+     "name": "Open Source"
+    },
+    "ProNetwork:573453903050895360": {
+     "__typename": "ProNetwork",
+     "id": "573453903050895360",
+     "urlname": "web-performance-meetups",
+     "name": "Web Performance Meetups",
+     "link": "https://www.meetup.com/pro/web-performance-meetups/"
+    },
+    "PhotoInfo:494338043": {
+     "__typename": "PhotoInfo",
+     "id": "494338043",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+     "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/b/b/highres_494338043.jpeg"
+    },
+    "Group:1428523": {
+     "__typename": "Group",
+     "id": "1428523",
+     "name": "New York UX Speed and Web Performance Group",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/web-performance-ny",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__ref": "TopicCategory:546"
+     },
+     "activeTopics": [
+      {
+       "__ref": "Topic:15091"
+      },
+      {
+       "__ref": "Topic:788002"
+      },
+      {
+       "__ref": "Topic:417"
+      },
+      {
+       "__ref": "Topic:15582"
+      },
+      {
+       "__ref": "Topic:1504197"
+      },
+      {
+       "__ref": "Topic:1973"
+      },
+      {
+       "__ref": "Topic:659"
+      },
+      {
+       "__ref": "Topic:18865"
+      },
+      {
+       "__ref": "Topic:9886"
+      },
+      {
+       "__ref": "Topic:150844"
+      },
+      {
+       "__ref": "Topic:10102"
+      },
+      {
+       "__ref": "Topic:8192"
+      }
+     ],
+     "urlname": "web-performance-ny",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": true,
+     "proNetwork": {
+      "__ref": "ProNetwork:573453903050895360"
+     },
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 5129
+      }
+     },
+     "needsQuestions": false,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "keyGroupPhoto": {
+      "__ref": "PhotoInfo:494338043"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "Event:317161341": {
+     "__typename": "Event",
+     "id": "317161341",
+     "attendanceForecast": null,
+     "token": "317161341",
+     "title": "Standards from the Field",
+     "description": "Web developers are constantly pushing the boundaries of the web’s standard capabilities, and that’s by design: our languages are meant to be composed and extended to build websites that do exactly what we need. Sometimes though, our custom solutions highlight deeper challenges with performance and usability that limit us all, and reveal an opportunity for the web’s native capabilities to grow. How do we know when we’ve stumbled upon a common solution, and what does it really look like to move from patterns that work on one website to features that are built into our browsers—particularly if that sort of work is not your main gig?\n\nIn this talk, Scott will share examples of how he and his teammates not only build with web standards, but sometimes help propose, specify, and build those standards themselves. Along the way, he’ll highlight upcoming and newly shipped features that you can use today to deliver faster, more accessible websites, and illuminate the process of how those features came to be.\n\nFor over two decades, [Scott Jehl](https://scottjehl.com/) ([https://bsky.app/profile/scottjehl.com](https://bsky.app/profile/scottjehl.com)) has worked at the intersection of design and front-end technology, leading projects for some of the Web’s most iconic brands. Scott is best known for his work within the web community, advocating for practices and building tools that enable websites to reach the broadest possible audience, and contributing to the specs and implementation of several web standards. These days, he is an engineer at Squarespace in New York City, where his team oversees the performance and accessibility of millions of websites. Scott is the creator of the Web Components Demystified online course (2024), author of Responsible Responsive Design (2014, A Book Apart), and co-author of Designing with Progressive Enhancement (2010, New Riders).\n\nWe will have **food and drinks** and as always, we are going to have **geekaways** with **geeky prizes** provided by our sponsors.\n**Agenda:**\n6:00PM - Arrive at the venue, meet other members\n6:15PM - Event starts\n6:30PM - **Standards from the Field** (Scott Jehl)\n7:15PM - Q&A\n7:45PM - \"Books and Stuff\" geekaways\n8:00PM - Open Discussion, Networking\n\nMake sure to **fill out your legal name** and **bring your ID** to show at security desk.\n\nPlease make sure to allow for additional time to go through security downstairs and be prepared to put all your electronics through security screening. Then take G elevator to 64th floor and transfer to the second bank and take elevator to 88th floor.\n\nInterested in speaking at a NY Web Performance event in the future? Fill out our [speaker application](https://nywebperf.com/speak), or reach out to your organizers with any questions!",
+     "eventUrl": "https://www.meetup.com/web-performance-ny/events/317161341/",
+     "status": "ACTIVE",
+     "eventType": "PHYSICAL",
+     "featuredEventPhoto": {
+      "__ref": "PhotoInfo:536873670"
+     },
+     "displayPhoto": {
+      "__ref": "PhotoInfo:536873670"
+     },
+     "eventHosts": [
+      {
+       "__ref": "EventHost:3657777"
+      }
+     ],
+     "dateTime": "2026-12-10T18:00:00-05:00",
+     "endTime": "2026-12-10T21:30:00-05:00",
+     "isFeatured": false,
+     "venue": {
+      "__ref": "Venue:28431115"
+     },
+     "maxTickets": 55,
+     "series": null,
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"WAITLIST\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 0
+     },
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"YES\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 19
+     },
+     "waitlistMode": "OFF",
+     "guestsAllowed": false,
+     "numberOfAllowedGuests": 0,
+     "proCompleteRsvp": null,
+     "topics": {
+      "__typename": "TopicsConnection",
+      "edges": [
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:15091"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:417"
+        }
+       }
+      ]
+     },
+     "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpOpenTime": "2026-10-27T11:28:00-04:00",
+      "rsvpCloseTime": "2026-12-08T09:00:00-05:00"
+     },
+     "covidPrecautions": {
+      "__typename": "CovidPrecautions",
+      "masks": null,
+      "vaccinations": null,
+      "details": null,
+      "venueType": null
+     },
+     "isNetworkEvent": false,
+     "isEventChatEnabled": false,
+     "externalChat": null,
+     "feeSettings": {
+      "__typename": "EventFeeSettings",
+      "amount": 5,
+      "accepts": "PAYPAL",
+      "required": true,
+      "currency": "USD",
+      "earlyBirdDiscount": null,
+      "hasPromoCodes": true
+     },
+     "networkEvent": null,
+     "speakerDetails": null,
+     "socialProofInsights": null,
+     "group": {
+      "__ref": "Group:1428523"
+     },
+     "sponsoredUntil": null,
+     "komootUrl": null
+    },
+    "ROOT_QUERY": {
+     "__typename": "Query",
+     "event({\"id\":\"317161341\"})": {
+      "__ref": "Event:317161341"
+     }
+    }
+   },
+   "_sentryTraceData": "21955a422d1fef7c1106843b90c53959-017053c509608210-0",
+   "_sentryBaggage": "sentry-environment=production,sentry-release=49c0734fc933ebd9f147e96038f608ad12d30e9e,sentry-public_key=5d12cd2317664353456ab4c40d079af2,sentry-trace_id=21955a422d1fef7c1106843b90c53959,sentry-org_id=6787,sentry-sampled=false,sentry-sample_rand=0.5183072115400311,sentry-sample_rate=0.01"
+  },
+  "__N_SSP": true
+ },
+ "page": "/[slug]/events/[eventId]",
+ "query": {
+  "slug": "web-performance-ny",
+  "eventId": "317161341"
+ },
+ "buildId": "49c0734fc933ebd9f147e96038f608ad12d30e9e",
+ "isFallback": false,
+ "isExperimentalCompile": false,
+ "gssp": true,
+ "locale": "en-US",
+ "locales": [
+  "en-US",
+  "en-AU",
+  "de",
+  "de-DE",
+  "es",
+  "es-ES",
+  "fr",
+  "fr-FR",
+  "it",
+  "it-IT",
+  "ja",
+  "ja-JP",
+  "ko",
+  "ko-KR",
+  "nl",
+  "nl-NL",
+  "pl",
+  "pl-PL",
+  "pt",
+  "pt-BR",
+  "ru",
+  "ru-RU",
+  "tr",
+  "tr-TR",
+  "th-TH"
+ ],
+ "defaultLocale": "en-US",
+ "scriptLoader": []
+}

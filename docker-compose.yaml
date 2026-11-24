@@ -1,0 +1,10 @@
+services:
+  meetup-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional: Meetup answers your own connection, so leave this unset.
+      # - MEETUP_PROXY=http://user:pass@host:port

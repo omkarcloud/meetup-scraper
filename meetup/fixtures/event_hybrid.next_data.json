@@ -1,0 +1,949 @@
+{
+ "props": {
+  "pageProps": {
+   "isMobile": false,
+   "showMobileBanner": true,
+   "memberLocale": "en-US",
+   "localeMessages": {
+    "organizerUpgradeModal2.upgradeToTier": "Upgrade to {tier}",
+    "sendEmailModal.subject": "Subject",
+    "sendEmailModal.message": "Message",
+    "sendEmailModal.send": "Send",
+    "sendEmailModal.cancel": "Cancel",
+    "comparisonLikePaywall.continue": "Continue",
+    "a11y.skipToContent": "Skip to content",
+    "desktopHeader.homepage": "Homepage",
+    "desktopSearch.searchEvents": "Search events...",
+    "searchLocationTypeahead.placeholder": "Neighborhood, city or zip",
+    "searchLocationTypeahead.searchLocationByCityOrZip": "Search for location by city or zip code",
+    "seo.allEvents": "All events",
+    "seo.eventsIn": "Events in {name}",
+    "seo.topicsEvents": "{name} events",
+    "event.info.only2Hosts": "{HOST_1} and {HOST_2}",
+    "eventHome.hostedBy": "Hosted by {HOST_NAMES}",
+    "redesign.components.avatar.ariaLabel": "Photo of the user {memberName}",
+    "shared.organizerIsSuperOrganizer": "{ORGANIZER_NAME} is a <b>Super Organizer</b>",
+    "EventStickyFooter.shareButton.shareThisEvent": "Share this event",
+    "shareButton.eventShareTitle_v2": "Share",
+    "event.venue.hybridTooltip": "Hybrid events allow attendees to join in person at a physical location or via an online video link.",
+    "event.venue.hybrid": "This is a hybrid event",
+    "EventInfoCard.EventDateInfo.rsvpCloses": "Registrations close {date}",
+    "EventInfoCard.TimeInfo.durationFromDayToDay": "{FROM_DATE} to {END_DATE}",
+    "EventInfoCard.OnlineEventInfo.onlineEvent": "Online event",
+    "EventInfoCard.OnlineEventInfo.linkHidden": "Link visible for attendees",
+    "EventChatPreview.title": "Event chat",
+    "EventChatPreview.description": "Attend to join the conversation and connect with other attendees before the event starts",
+    "EventChatPreview.attendEvent": "Attend event",
+    "EventDetailsContainer.details": "Details",
+    "EventHome.relatedTopics": "Related topics",
+    "EventTags.eventsIn": "Events in {name}",
+    "event.descriptionEventAbuseReportLink_v2": "Report event",
+    "relatedEvents.findMoreEventsVariantV2": "You may also like",
+    "relatedEvents.seeAll": "See all",
+    "ticketModal.closeTicket": "Close ticket",
+    "ticketModal.nameLabel": "Name",
+    "ticketModal.groupLabel": "Group",
+    "ticketModal.download": "Download",
+    "footer.meetupOnFacebook": "Meetup on Facebook",
+    "footer.meetupOnTwitter": "Meetup on X",
+    "footer.meetupOnYoutube": "Meetup on YouTube",
+    "footer.meetupOnInstagram": "Instagram",
+    "footer.meetupOnTiktok": "TikTok",
+    "footer.thePeoplePlatform": "The <red>people</red> platform",
+    "footer.createYourOwnMeetupGroup": "Create your own Meetup group",
+    "footer.startNewGroup": "Start a new group",
+    "footer.yourAccount": "Your account",
+    "footer.signUp": "Sign up",
+    "footer.logIn": "Log in",
+    "footer.help": "Help",
+    "footer.discover": "Discover",
+    "footer.groups": "Groups",
+    "footer.events": "Events",
+    "footer.topics": "Topics",
+    "footer.cities": "Cities",
+    "footer.onlineEvents": "Online events",
+    "footer.localGuides": "Local guides",
+    "footer.makeFriendsLp": "Make friends",
+    "footer.sitemap": "Sitemap",
+    "footer.meetupText": "Meetup",
+    "footer.about": "About",
+    "footer.blog": "Blog",
+    "footer.meetupPro": "Meetup Pro",
+    "footer.careers": "Careers",
+    "footer.apps": "Apps",
+    "footer.podcast": "Podcast",
+    "footer.followUs": "Follow us",
+    "footer.getTheApp": "Get the app",
+    "mobileDownloadButtons.downloadFromGooglePlay": "Download app from Google Play",
+    "mobileDownloadButtons.downloadFromAppStore": "Download app from App Store",
+    "mobileDownloadButtons.downloadOnStore": "Download on",
+    "footer.termsOfService": "Terms of service",
+    "footer.privacyPolicy": "Privacy policy",
+    "footer.cookiePolicy": "Cookie policy",
+    "footer.licenseAttribution": "License attribution",
+    "footer.legalInfo": "Bending Spoons Operations S.p.A. | Sole shareholder company subject to the management and coordination of Bending Spoons S.p.A. | Via Nino Bonnet 10, 20154, Milan, Italy | VAT, tax code, and number of registration with the Milan Monza Brianza Lodi Company Register 13368510965 | REA number MI 2718456 | Contributed capital €150.000,00 fully paid-in",
+    "footer.madeWithLoveBy": "Made with {love} by"
+   },
+   "country": "IN",
+   "eventId": "317510470",
+   "groupNameLowerCase": "meetup-group-wowpnrkl",
+   "event": {
+    "__typename": "Event",
+    "id": "317510470",
+    "attendanceForecast": null,
+    "token": "317510470",
+    "title": "Around the World | Free Hybrid Toastmasters Open House",
+    "description": "🌍 **Five Languages. One Evening.**\nWant to feel more confident speaking up at work, giving a presentation, or talking in front of a group? Get a head start on your 2027 goals at this free District 46 Toastmasters open house. Join us on Zoom or in person near Bryant Park, NYC.\n\n👉 **Reserve your spot.** Complete the Zoom registration form and select **online** or **in person**, even if you’ve already RSVP’d on Meetup.\n[https://bit.ly/ATW46](https://bit.ly/ATW46)\n\nToastmasters is a community where people practice public speaking and get supportive feedback. You’ll meet members of New York’s bilingual Toastmasters clubs and experience **Hindi, Arabic, Mandarin, Spanish, and Japanese alongside English** through speeches and stories.\nTry a short impromptu speaking activity or simply listen and enjoy. First-time guests are welcome. Bring a friend, and feel free to wear traditional attire!\n\n📅 **Friday, December 11, 2026**\n🤝 **6:15 PM ET** · In-person networking\n🎤 **6:30 PM ET** · Open house begins for everyone\n\n**Food will be served for in-person guests.** There are **30 in-person spots**, and we’ll share the exact address near Bryant Park after you register.",
+    "eventUrl": "https://www.meetup.com/meetup-group-wowpnrkl/events/317510470/",
+    "status": "ACTIVE",
+    "eventType": "HYBRID",
+    "featuredEventPhoto": {
+     "__typename": "PhotoInfo",
+     "id": "537217094",
+     "source": "https://secure.meetupstatic.com/photos/event/9/0/e/6/highres_537217094.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "displayPhoto": {
+     "__typename": "PhotoInfo",
+     "id": "537217094",
+     "source": "https://secure.meetupstatic.com/photos/event/9/0/e/6/highres_537217094.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "eventHosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "303181155",
+      "id": "303181155",
+      "name": "Jessly Chettaniyal",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "297738986"
+      }
+     },
+     {
+      "__typename": "EventHost",
+      "memberId": "401414068",
+      "id": "401414068",
+      "name": "District 46 Toastmasters",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": true,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "325500886"
+      }
+     }
+    ],
+    "dateTime": "2026-12-11T18:15:00-05:00",
+    "endTime": "2026-12-11T20:15:00-05:00",
+    "isFeatured": true,
+    "venue": {
+     "__typename": "Venue",
+     "id": "28491229",
+     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=55+West+39th+Street&query_place_id=ChIJsZM-9qpZwokRYSlYRmE4oJY",
+     "name": "55 West 39th Street",
+     "address": "55 W 39th St, New York, NY 10018, USA",
+     "city": "New York",
+     "state": "NY",
+     "country": "us",
+     "lat": 40.75272,
+     "lng": -73.984733
+    },
+    "maxTickets": 25,
+    "series": null,
+    "rsvps": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "waitingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "goingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 2
+    },
+    "waitlistMode": "OFF",
+    "guestsAllowed": true,
+    "numberOfAllowedGuests": 1,
+    "proCompleteRsvp": null,
+    "topics": {
+     "__typename": "TopicsConnection",
+     "edges": [
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "53338",
+        "name": "Leadership Development",
+        "urlkey": "leadership-development"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "92209",
+        "name": "Public Speaking",
+        "urlkey": "public-speaking"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "1484122",
+        "name": "Language Exchange",
+        "urlkey": "language-exchange"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "51608",
+        "name": "Confidence",
+        "urlkey": "confidence"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "15133",
+        "name": "Personal Development",
+        "urlkey": "personal-development"
+       }
+      }
+     ]
+    },
+    "rsvpSettings": {
+     "__typename": "RsvpOpenSettings",
+     "rsvpOpenTime": "2026-11-20T08:15:00-05:00",
+     "rsvpCloseTime": "2026-12-07T17:15:00-05:00"
+    },
+    "covidPrecautions": {
+     "__typename": "CovidPrecautions",
+     "masks": null,
+     "vaccinations": null,
+     "details": null,
+     "venueType": null
+    },
+    "isNetworkEvent": false,
+    "isEventChatEnabled": true,
+    "externalChat": null,
+    "hosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "303181155",
+      "id": "303181155",
+      "name": "Jessly Chettaniyal",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "297738986"
+      }
+     },
+     {
+      "__typename": "EventHost",
+      "memberId": "401414068",
+      "id": "401414068",
+      "name": "District 46 Toastmasters",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": true,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "325500886"
+      }
+     }
+    ],
+    "feeSettings": null,
+    "networkEvent": null,
+    "speakerDetails": null,
+    "socialProofInsights": {
+     "__typename": "SocialProofInsights",
+     "isTrendingEvent": false,
+     "totalInterestedUsers": 27,
+     "interestedUsersSample": [
+      {
+       "__typename": "Member",
+       "id": "303181155",
+       "name": "Jessly Chettaniyal",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "297738986",
+        "source": "https://secure.meetupstatic.com/photos/member/4/a/2/a/highres_297738986.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "479773115",
+       "name": "Gustavo Zapata Quinonez",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "325214175",
+        "source": "https://secure.meetupstatic.com/photos/member/3/7/5/f/highres_325214175.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "474829810",
+       "name": "Sam",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "325752050",
+        "source": "https://secure.meetupstatic.com/photos/member/2/f/1/2/highres_325752050.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "258280134",
+       "name": "Victor ",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "326385968",
+        "source": "https://secure.meetupstatic.com/photos/member/b/3/9/0/highres_326385968.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "480901542",
+       "name": "New York AI Toastmasters Club",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "326164485",
+        "source": "https://secure.meetupstatic.com/photos/member/1/1/8/5/highres_326164485.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "329148742",
+       "name": "Jaclyn",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "316504103",
+        "source": "https://secure.meetupstatic.com/photos/member/1/0/0/7/highres_316504103.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      },
+      {
+       "__typename": "Member",
+       "id": "15376281",
+       "name": "Cyrus Chan",
+       "memberPhoto": {
+        "__typename": "PhotoInfo",
+        "id": "273018382",
+        "source": "https://secure.meetupstatic.com/photos/member/4/7/c/e/highres_273018382.jpeg",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+       }
+      }
+     ]
+    },
+    "group": {
+     "__typename": "Group",
+     "id": "38487793",
+     "name": "Dist.46 New York Public Speaking & Leadership Growth Network",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/meetup-group-wowpnrkl",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__typename": "TopicCategory",
+      "id": "405",
+      "name": "Career & Business",
+      "urlkey": "career-business"
+     },
+     "topics": [
+      {
+       "__typename": "Topic",
+       "id": "15133",
+       "urlkey": "personal-development",
+       "name": "Personal Development"
+      },
+      {
+       "__typename": "Topic",
+       "id": "17302",
+       "urlkey": "confidence-and-self-esteem",
+       "name": "Confidence and Self-Esteem"
+      },
+      {
+       "__typename": "Topic",
+       "id": "21517",
+       "urlkey": "self-help-self-improvement",
+       "name": "Self-Help & Self-Improvement"
+      },
+      {
+       "__typename": "Topic",
+       "id": "51608",
+       "urlkey": "confidence",
+       "name": "Confidence"
+      },
+      {
+       "__typename": "Topic",
+       "id": "53338",
+       "urlkey": "leadership-development",
+       "name": "Leadership Development"
+      },
+      {
+       "__typename": "Topic",
+       "id": "54493",
+       "urlkey": "leadership",
+       "name": "Leadership"
+      },
+      {
+       "__typename": "Topic",
+       "id": "92209",
+       "urlkey": "public-speaking",
+       "name": "Public Speaking"
+      }
+     ],
+     "urlname": "meetup-group-wowpnrkl",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": null,
+     "proNetwork": {
+      "__typename": "ProNetwork",
+      "id": "1279501880233107456",
+      "urlname": "toastmasters-district-46",
+      "name": "Toastmasters District 46",
+      "link": "https://www.meetup.com/pro/toastmasters-district-46/"
+     },
+     "featuredEvent": {
+      "__typename": "Event",
+      "id": "317510470"
+     },
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 1518
+      }
+     },
+     "needsQuestions": null,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "groupPhoto": {
+      "__typename": "PhotoInfo",
+      "id": "534204883",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "source": "https://secure.meetupstatic.com/photos/event/6/1/3/3/highres_534204883.jpeg"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "sponsoredUntil": null,
+    "komootUrl": null,
+    "timezone": "America/New_York",
+    "waiting": 0,
+    "timeStatus": "UPCOMING",
+    "host": {
+     "__typename": "EventHost",
+     "memberId": "303181155",
+     "id": "303181155",
+     "name": "Jessly Chettaniyal",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__typename": "PhotoInfo",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+      "id": "297738986"
+     }
+    },
+    "currency": "USD"
+   },
+   "__APOLLO_STATE__": {
+    "PhotoInfo:537217094": {
+     "__typename": "PhotoInfo",
+     "id": "537217094",
+     "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/e/6/highres_537217094.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "PhotoInfo:297738986": {
+     "__typename": "PhotoInfo",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+     "id": "297738986",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/4/a/2/a/highres_297738986.jpeg"
+    },
+    "EventHost:303181155": {
+     "__typename": "EventHost",
+     "memberId": "303181155",
+     "name": "Jessly Chettaniyal",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__ref": "PhotoInfo:297738986"
+     },
+     "id": "303181155"
+    },
+    "PhotoInfo:325500886": {
+     "__typename": "PhotoInfo",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+     "id": "325500886"
+    },
+    "EventHost:401414068": {
+     "__typename": "EventHost",
+     "memberId": "401414068",
+     "name": "District 46 Toastmasters",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": true,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__ref": "PhotoInfo:325500886"
+     },
+     "id": "401414068"
+    },
+    "Venue:28491229": {
+     "__typename": "Venue",
+     "id": "28491229",
+     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=55+West+39th+Street&query_place_id=ChIJsZM-9qpZwokRYSlYRmE4oJY",
+     "name": "55 West 39th Street",
+     "address": "55 W 39th St, New York, NY 10018, USA",
+     "city": "New York",
+     "state": "NY",
+     "country": "us",
+     "lat": 40.75272,
+     "lon": -73.984733
+    },
+    "Topic:53338": {
+     "__typename": "Topic",
+     "id": "53338",
+     "name": "Leadership Development",
+     "urlkey": "leadership-development"
+    },
+    "Topic:92209": {
+     "__typename": "Topic",
+     "id": "92209",
+     "name": "Public Speaking",
+     "urlkey": "public-speaking"
+    },
+    "Topic:1484122": {
+     "__typename": "Topic",
+     "id": "1484122",
+     "name": "Language Exchange",
+     "urlkey": "language-exchange"
+    },
+    "Topic:51608": {
+     "__typename": "Topic",
+     "id": "51608",
+     "name": "Confidence",
+     "urlkey": "confidence"
+    },
+    "Topic:15133": {
+     "__typename": "Topic",
+     "id": "15133",
+     "name": "Personal Development",
+     "urlkey": "personal-development"
+    },
+    "Member:303181155": {
+     "__typename": "Member",
+     "id": "303181155",
+     "name": "Jessly Chettaniyal",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:297738986"
+     }
+    },
+    "PhotoInfo:325214175": {
+     "__typename": "PhotoInfo",
+     "id": "325214175",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/3/7/5/f/highres_325214175.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:479773115": {
+     "__typename": "Member",
+     "id": "479773115",
+     "name": "Gustavo Zapata Quinonez",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:325214175"
+     }
+    },
+    "PhotoInfo:325752050": {
+     "__typename": "PhotoInfo",
+     "id": "325752050",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/2/f/1/2/highres_325752050.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:474829810": {
+     "__typename": "Member",
+     "id": "474829810",
+     "name": "Sam",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:325752050"
+     }
+    },
+    "PhotoInfo:326385968": {
+     "__typename": "PhotoInfo",
+     "id": "326385968",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/b/3/9/0/highres_326385968.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:258280134": {
+     "__typename": "Member",
+     "id": "258280134",
+     "name": "Victor ",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:326385968"
+     }
+    },
+    "PhotoInfo:326164485": {
+     "__typename": "PhotoInfo",
+     "id": "326164485",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/1/1/8/5/highres_326164485.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:480901542": {
+     "__typename": "Member",
+     "id": "480901542",
+     "name": "New York AI Toastmasters Club",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:326164485"
+     }
+    },
+    "PhotoInfo:316504103": {
+     "__typename": "PhotoInfo",
+     "id": "316504103",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/1/0/0/7/highres_316504103.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:329148742": {
+     "__typename": "Member",
+     "id": "329148742",
+     "name": "Jaclyn",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:316504103"
+     }
+    },
+    "PhotoInfo:273018382": {
+     "__typename": "PhotoInfo",
+     "id": "273018382",
+     "highResUrl": "https://secure.meetupstatic.com/photos/member/4/7/c/e/highres_273018382.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/"
+    },
+    "Member:15376281": {
+     "__typename": "Member",
+     "id": "15376281",
+     "name": "Cyrus Chan",
+     "memberPhoto": {
+      "__ref": "PhotoInfo:273018382"
+     }
+    },
+    "TopicCategory:405": {
+     "__typename": "TopicCategory",
+     "id": "405",
+     "name": "Career & Business",
+     "urlkey": "career-business"
+    },
+    "Topic:17302": {
+     "__typename": "Topic",
+     "id": "17302",
+     "urlkey": "confidence-and-self-esteem",
+     "name": "Confidence and Self-Esteem"
+    },
+    "Topic:21517": {
+     "__typename": "Topic",
+     "id": "21517",
+     "urlkey": "self-help-self-improvement",
+     "name": "Self-Help & Self-Improvement"
+    },
+    "Topic:54493": {
+     "__typename": "Topic",
+     "id": "54493",
+     "urlkey": "leadership",
+     "name": "Leadership"
+    },
+    "ProNetwork:1279501880233107456": {
+     "__typename": "ProNetwork",
+     "id": "1279501880233107456",
+     "urlname": "toastmasters-district-46",
+     "name": "Toastmasters District 46",
+     "link": "https://www.meetup.com/pro/toastmasters-district-46/"
+    },
+    "Event:317510470": {
+     "__typename": "Event",
+     "id": "317510470",
+     "attendanceForecast": null,
+     "token": "317510470",
+     "title": "Around the World | Free Hybrid Toastmasters Open House",
+     "description": "🌍 **Five Languages. One Evening.**\nWant to feel more confident speaking up at work, giving a presentation, or talking in front of a group? Get a head start on your 2027 goals at this free District 46 Toastmasters open house. Join us on Zoom or in person near Bryant Park, NYC.\n\n👉 **Reserve your spot.** Complete the Zoom registration form and select **online** or **in person**, even if you’ve already RSVP’d on Meetup.\n[https://bit.ly/ATW46](https://bit.ly/ATW46)\n\nToastmasters is a community where people practice public speaking and get supportive feedback. You’ll meet members of New York’s bilingual Toastmasters clubs and experience **Hindi, Arabic, Mandarin, Spanish, and Japanese alongside English** through speeches and stories.\nTry a short impromptu speaking activity or simply listen and enjoy. First-time guests are welcome. Bring a friend, and feel free to wear traditional attire!\n\n📅 **Friday, December 11, 2026**\n🤝 **6:15 PM ET** · In-person networking\n🎤 **6:30 PM ET** · Open house begins for everyone\n\n**Food will be served for in-person guests.** There are **30 in-person spots**, and we’ll share the exact address near Bryant Park after you register.",
+     "eventUrl": "https://www.meetup.com/meetup-group-wowpnrkl/events/317510470/",
+     "status": "ACTIVE",
+     "eventType": "HYBRID",
+     "featuredEventPhoto": {
+      "__ref": "PhotoInfo:537217094"
+     },
+     "displayPhoto": {
+      "__ref": "PhotoInfo:537217094"
+     },
+     "eventHosts": [
+      {
+       "__ref": "EventHost:303181155"
+      },
+      {
+       "__ref": "EventHost:401414068"
+      }
+     ],
+     "dateTime": "2026-12-11T18:15:00-05:00",
+     "endTime": "2026-12-11T20:15:00-05:00",
+     "isFeatured": true,
+     "venue": {
+      "__ref": "Venue:28491229"
+     },
+     "maxTickets": 25,
+     "series": null,
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"WAITLIST\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 0
+     },
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"YES\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 2
+     },
+     "waitlistMode": "OFF",
+     "guestsAllowed": true,
+     "numberOfAllowedGuests": 1,
+     "proCompleteRsvp": null,
+     "topics": {
+      "__typename": "TopicsConnection",
+      "edges": [
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:53338"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:92209"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:1484122"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:51608"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:15133"
+        }
+       }
+      ]
+     },
+     "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpOpenTime": "2026-11-20T08:15:00-05:00",
+      "rsvpCloseTime": "2026-12-07T17:15:00-05:00"
+     },
+     "covidPrecautions": {
+      "__typename": "CovidPrecautions",
+      "masks": null,
+      "vaccinations": null,
+      "details": null,
+      "venueType": null
+     },
+     "isNetworkEvent": false,
+     "isEventChatEnabled": true,
+     "externalChat": null,
+     "feeSettings": null,
+     "networkEvent": null,
+     "speakerDetails": null,
+     "socialProofInsights": {
+      "__typename": "SocialProofInsights",
+      "isTrendingEvent": false,
+      "totalInterestedUsers": 27,
+      "interestedUsersSample": [
+       {
+        "__ref": "Member:303181155"
+       },
+       {
+        "__ref": "Member:479773115"
+       },
+       {
+        "__ref": "Member:474829810"
+       },
+       {
+        "__ref": "Member:258280134"
+       },
+       {
+        "__ref": "Member:480901542"
+       },
+       {
+        "__ref": "Member:329148742"
+       },
+       {
+        "__ref": "Member:15376281"
+       }
+      ]
+     },
+     "group": {
+      "__ref": "Group:38487793"
+     },
+     "sponsoredUntil": null,
+     "komootUrl": null
+    },
+    "PhotoInfo:534204883": {
+     "__typename": "PhotoInfo",
+     "id": "534204883",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+     "highResUrl": "https://secure.meetupstatic.com/photos/event/6/1/3/3/highres_534204883.jpeg"
+    },
+    "Group:38487793": {
+     "__typename": "Group",
+     "id": "38487793",
+     "name": "Dist.46 New York Public Speaking & Leadership Growth Network",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/meetup-group-wowpnrkl",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__ref": "TopicCategory:405"
+     },
+     "activeTopics": [
+      {
+       "__ref": "Topic:15133"
+      },
+      {
+       "__ref": "Topic:17302"
+      },
+      {
+       "__ref": "Topic:21517"
+      },
+      {
+       "__ref": "Topic:51608"
+      },
+      {
+       "__ref": "Topic:53338"
+      },
+      {
+       "__ref": "Topic:54493"
+      },
+      {
+       "__ref": "Topic:92209"
+      }
+     ],
+     "urlname": "meetup-group-wowpnrkl",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": null,
+     "proNetwork": {
+      "__ref": "ProNetwork:1279501880233107456"
+     },
+     "featuredEvent": {
+      "__ref": "Event:317510470"
+     },
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 1518
+      }
+     },
+     "needsQuestions": null,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "keyGroupPhoto": {
+      "__ref": "PhotoInfo:534204883"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "ROOT_QUERY": {
+     "__typename": "Query",
+     "event({\"id\":\"317510470\"})": {
+      "__ref": "Event:317510470"
+     }
+    }
+   },
+   "_sentryTraceData": "6a944432c3f911b141ab63d163e65bc3-9d81fe1a485945d4-0",
+   "_sentryBaggage": "sentry-environment=production,sentry-release=49c0734fc933ebd9f147e96038f608ad12d30e9e,sentry-public_key=5d12cd2317664353456ab4c40d079af2,sentry-trace_id=6a944432c3f911b141ab63d163e65bc3,sentry-org_id=6787,sentry-sampled=false,sentry-sample_rand=0.7440473568654657,sentry-sample_rate=0.01"
+  },
+  "__N_SSP": true
+ },
+ "page": "/[slug]/events/[eventId]",
+ "query": {
+  "slug": "meetup-group-wowpnrkl",
+  "eventId": "317510470"
+ },
+ "buildId": "49c0734fc933ebd9f147e96038f608ad12d30e9e",
+ "isFallback": false,
+ "isExperimentalCompile": false,
+ "gssp": true,
+ "locale": "en-US",
+ "locales": [
+  "en-US",
+  "en-AU",
+  "de",
+  "de-DE",
+  "es",
+  "es-ES",
+  "fr",
+  "fr-FR",
+  "it",
+  "it-IT",
+  "ja",
+  "ja-JP",
+  "ko",
+  "ko-KR",
+  "nl",
+  "nl-NL",
+  "pl",
+  "pl-PL",
+  "pt",
+  "pt-BR",
+  "ru",
+  "ru-RU",
+  "tr",
+  "tr-TR",
+  "th-TH"
+ ],
+ "defaultLocale": "en-US",
+ "scriptLoader": []
+}

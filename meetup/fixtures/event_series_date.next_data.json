@@ -1,0 +1,590 @@
+{
+ "props": {
+  "pageProps": {
+   "isMobile": false,
+   "showMobileBanner": true,
+   "memberLocale": "en-US",
+   "localeMessages": {
+    "organizerUpgradeModal2.upgradeToTier": "Upgrade to {tier}",
+    "sendEmailModal.subject": "Subject",
+    "sendEmailModal.message": "Message",
+    "sendEmailModal.send": "Send",
+    "sendEmailModal.cancel": "Cancel",
+    "comparisonLikePaywall.continue": "Continue",
+    "a11y.skipToContent": "Skip to content",
+    "desktopHeader.homepage": "Homepage",
+    "desktopSearch.searchEvents": "Search events...",
+    "searchLocationTypeahead.placeholder": "Neighborhood, city or zip",
+    "searchLocationTypeahead.searchLocationByCityOrZip": "Search for location by city or zip code",
+    "seo.allEvents": "All events",
+    "seo.onlineEvents": "Online events",
+    "seo.topicsEvents": "{name} events",
+    "event.info.only1Host": "{HOST_1}",
+    "eventHome.hostedBy": "Hosted by {HOST_NAMES}",
+    "redesign.components.avatar.ariaLabel": "Photo of the user {memberName}",
+    "EventStickyFooter.shareButton.shareThisEvent": "Share this event",
+    "shareButton.eventShareTitle_v2": "Share",
+    "EventInfoCard.OnlineEventInfo.onlineEvent": "Online event",
+    "EventInfoCard.OnlineEventInfo.linkHidden": "Link visible for attendees",
+    "EventDetailsContainer.details": "Details",
+    "EventHome.relatedTopics": "Related topics",
+    "event.descriptionEventAbuseReportLink_v2": "Report event",
+    "relatedEvents.findMoreEventsVariantV2": "You may also like",
+    "relatedEvents.seeAll": "See all",
+    "ticketModal.closeTicket": "Close ticket",
+    "ticketModal.nameLabel": "Name",
+    "ticketModal.groupLabel": "Group",
+    "ticketModal.download": "Download",
+    "footer.meetupOnFacebook": "Meetup on Facebook",
+    "footer.meetupOnTwitter": "Meetup on X",
+    "footer.meetupOnYoutube": "Meetup on YouTube",
+    "footer.meetupOnInstagram": "Instagram",
+    "footer.meetupOnTiktok": "TikTok",
+    "footer.thePeoplePlatform": "The <red>people</red> platform",
+    "footer.createYourOwnMeetupGroup": "Create your own Meetup group",
+    "footer.startNewGroup": "Start a new group",
+    "footer.yourAccount": "Your account",
+    "footer.signUp": "Sign up",
+    "footer.logIn": "Log in",
+    "footer.help": "Help",
+    "footer.discover": "Discover",
+    "footer.groups": "Groups",
+    "footer.events": "Events",
+    "footer.topics": "Topics",
+    "footer.cities": "Cities",
+    "footer.onlineEvents": "Online events",
+    "footer.localGuides": "Local guides",
+    "footer.makeFriendsLp": "Make friends",
+    "footer.sitemap": "Sitemap",
+    "footer.meetupText": "Meetup",
+    "footer.about": "About",
+    "footer.blog": "Blog",
+    "footer.meetupPro": "Meetup Pro",
+    "footer.careers": "Careers",
+    "footer.apps": "Apps",
+    "footer.podcast": "Podcast",
+    "footer.followUs": "Follow us",
+    "footer.getTheApp": "Get the app",
+    "mobileDownloadButtons.downloadFromGooglePlay": "Download app from Google Play",
+    "mobileDownloadButtons.downloadFromAppStore": "Download app from App Store",
+    "mobileDownloadButtons.downloadOnStore": "Download on",
+    "footer.termsOfService": "Terms of service",
+    "footer.privacyPolicy": "Privacy policy",
+    "footer.cookiePolicy": "Cookie policy",
+    "footer.licenseAttribution": "License attribution",
+    "footer.legalInfo": "Bending Spoons Operations S.p.A. | Sole shareholder company subject to the management and coordination of Bending Spoons S.p.A. | Via Nino Bonnet 10, 20154, Milan, Italy | VAT, tax code, and number of registration with the Milan Monza Brianza Lodi Company Register 13368510965 | REA number MI 2718456 | Contributed capital €150.000,00 fully paid-in",
+    "footer.madeWithLoveBy": "Made with {love} by"
+   },
+   "country": "IN",
+   "eventId": "sfnhctykccbqb",
+   "groupNameLowerCase": "j-dynamic-functional-programming",
+   "event": {
+    "__typename": "Event",
+    "id": "sfnhctykccbqb",
+    "attendanceForecast": null,
+    "token": "sfnhctykccbqb",
+    "title": "J Dynamic Functional Programming Monthly Meetup",
+    "description": "You may join the audio of the meeting by phone:\n‪(US) +1 937-589-3878‬ PIN: ‪233 448 729‬#\n\nThe general format of our meetings is as follows:\n\nTime / Subject / Description\n\n[*] 18:30 - 19:00 / Beginner's regatta / We cover topics on basic facilities of J\n\n[*]19:00 - 19:30 / Show-and-tell/ You are encouraged to show recent code on which you've been working in order to show off, and to solicit advice and sympathy.\n\n[*]19:30 - 20:00 / Advanced topics / We look at more advanced features of the language.\n\n[*]20:00 - 20:30 / Learning and teaching J / We distill our own experiences to help others get a handle on J and improve our own knowledge.\n\n[*]20:30 - ? / Wrap-up / General talk.\n\nThese broad areas are structured and ordered so that you may arrive or leave earlier or later depending on your particular interests.\n\n-",
+    "eventUrl": "https://www.meetup.com/j-dynamic-functional-programming/events/sfnhctykccbqb/",
+    "status": "ACTIVE",
+    "eventType": "ONLINE",
+    "featuredEventPhoto": null,
+    "displayPhoto": {
+     "__typename": "PhotoInfo",
+     "id": "509790647",
+     "source": "https://secure.meetupstatic.com/photos/event/7/7/b/7/highres_509790647.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "eventHosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "4708227",
+      "id": "4708227",
+      "name": "Devon McCormick",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "298242297"
+      }
+     }
+    ],
+    "dateTime": "2027-01-12T18:30:00-05:00",
+    "endTime": "2027-01-12T20:30:00-05:00",
+    "isFeatured": false,
+    "venue": {
+     "__typename": "Venue",
+     "id": "26906060",
+     "googleMapsUrl": null,
+     "name": "Online event",
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": "",
+     "lat": -8.521147,
+     "lng": 179.1962
+    },
+    "maxTickets": 23,
+    "series": {
+     "__typename": "Series",
+     "description": "Every 2nd Tuesday of the month"
+    },
+    "rsvps": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "waitingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 0
+    },
+    "goingCount": {
+     "__typename": "RsvpConnection",
+     "totalCount": 1
+    },
+    "waitlistMode": "AUTO",
+    "guestsAllowed": true,
+    "numberOfAllowedGuests": 5,
+    "proCompleteRsvp": null,
+    "topics": {
+     "__typename": "TopicsConnection",
+     "edges": [
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "103125",
+        "name": "Mathematics",
+        "urlkey": "mathematics"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "39090",
+        "name": "UI/UX Design",
+        "urlkey": "ui-ux-design"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "120095",
+        "name": "Software Development",
+        "urlkey": "software-development"
+       }
+      },
+      {
+       "__typename": "TopicEdge",
+       "node": {
+        "__typename": "Topic",
+        "id": "57349",
+        "name": "Algorithms",
+        "urlkey": "algorithms"
+       }
+      }
+     ]
+    },
+    "rsvpSettings": {
+     "__typename": "RsvpOpenSettings",
+     "rsvpOpenTime": null,
+     "rsvpCloseTime": null
+    },
+    "covidPrecautions": {
+     "__typename": "CovidPrecautions",
+     "masks": null,
+     "vaccinations": null,
+     "details": null,
+     "venueType": null
+    },
+    "isNetworkEvent": false,
+    "isEventChatEnabled": false,
+    "externalChat": null,
+    "hosts": [
+     {
+      "__typename": "EventHost",
+      "memberId": "4708227",
+      "id": "4708227",
+      "name": "Devon McCormick",
+      "member": {
+       "__typename": "Member",
+       "isSuperOrganizer": false,
+       "gender": null
+      },
+      "memberPhoto": {
+       "__typename": "PhotoInfo",
+       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+       "id": "298242297"
+      }
+     }
+    ],
+    "feeSettings": null,
+    "networkEvent": null,
+    "speakerDetails": null,
+    "socialProofInsights": null,
+    "group": {
+     "__typename": "Group",
+     "id": "1548071",
+     "name": "J Dynamic Functional Programming",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/j-dynamic-functional-programming",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__typename": "TopicCategory",
+      "id": "546",
+      "name": "Technology",
+      "urlkey": "technology"
+     },
+     "topics": [
+      {
+       "__typename": "Topic",
+       "id": "39090",
+       "urlkey": "ui-ux-design",
+       "name": "UI/UX Design"
+      },
+      {
+       "__typename": "Topic",
+       "id": "57349",
+       "urlkey": "algorithms",
+       "name": "Algorithms"
+      },
+      {
+       "__typename": "Topic",
+       "id": "120095",
+       "urlkey": "software-development",
+       "name": "Software Development"
+      },
+      {
+       "__typename": "Topic",
+       "id": "103125",
+       "urlkey": "mathematics",
+       "name": "Mathematics"
+      }
+     ],
+     "urlname": "j-dynamic-functional-programming",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": null,
+     "proNetwork": null,
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 340
+      }
+     },
+     "needsQuestions": null,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "groupPhoto": {
+      "__typename": "PhotoInfo",
+      "id": "509790647",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "source": "https://secure.meetupstatic.com/photos/event/7/7/b/7/highres_509790647.jpeg"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "sponsoredUntil": null,
+    "komootUrl": null,
+    "timezone": "America/New_York",
+    "waiting": 0,
+    "timeStatus": "UPCOMING",
+    "host": {
+     "__typename": "EventHost",
+     "memberId": "4708227",
+     "id": "4708227",
+     "name": "Devon McCormick",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__typename": "PhotoInfo",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+      "id": "298242297"
+     }
+    },
+    "currency": "USD"
+   },
+   "__APOLLO_STATE__": {
+    "PhotoInfo:509790647": {
+     "__typename": "PhotoInfo",
+     "id": "509790647",
+     "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/b/7/highres_509790647.jpeg",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "PhotoInfo:298242297": {
+     "__typename": "PhotoInfo",
+     "baseUrl": "https://secure-content.meetupstatic.com/images/classic-member/",
+     "id": "298242297"
+    },
+    "EventHost:4708227": {
+     "__typename": "EventHost",
+     "memberId": "4708227",
+     "name": "Devon McCormick",
+     "member": {
+      "__typename": "Member",
+      "isSuperOrganizer": false,
+      "gender": null
+     },
+     "memberPhoto": {
+      "__ref": "PhotoInfo:298242297"
+     },
+     "id": "4708227"
+    },
+    "Venue:26906060": {
+     "__typename": "Venue",
+     "id": "26906060",
+     "googleMapsUrl": null,
+     "name": "Online event",
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": "",
+     "lat": -8.521147,
+     "lon": 179.1962
+    },
+    "Topic:103125": {
+     "__typename": "Topic",
+     "id": "103125",
+     "name": "Mathematics",
+     "urlkey": "mathematics"
+    },
+    "Topic:39090": {
+     "__typename": "Topic",
+     "id": "39090",
+     "name": "UI/UX Design",
+     "urlkey": "ui-ux-design"
+    },
+    "Topic:120095": {
+     "__typename": "Topic",
+     "id": "120095",
+     "name": "Software Development",
+     "urlkey": "software-development"
+    },
+    "Topic:57349": {
+     "__typename": "Topic",
+     "id": "57349",
+     "name": "Algorithms",
+     "urlkey": "algorithms"
+    },
+    "TopicCategory:546": {
+     "__typename": "TopicCategory",
+     "id": "546",
+     "name": "Technology",
+     "urlkey": "technology"
+    },
+    "Group:1548071": {
+     "__typename": "Group",
+     "id": "1548071",
+     "name": "J Dynamic Functional Programming",
+     "isPrivate": false,
+     "timezone": "America/New_York",
+     "link": "https://www.meetup.com/j-dynamic-functional-programming",
+     "joinMode": "OPEN",
+     "topicCategory": {
+      "__ref": "TopicCategory:546"
+     },
+     "activeTopics": [
+      {
+       "__ref": "Topic:39090"
+      },
+      {
+       "__ref": "Topic:57349"
+      },
+      {
+       "__ref": "Topic:120095"
+      },
+      {
+       "__ref": "Topic:103125"
+      }
+     ],
+     "urlname": "j-dynamic-functional-programming",
+     "country": "us",
+     "state": "NY",
+     "city": "New York",
+     "needsPhoto": null,
+     "proNetwork": null,
+     "featuredEvent": null,
+     "stats": {
+      "__typename": "GroupStats",
+      "memberCounts": {
+       "__typename": "GroupMemberCounts",
+       "all": 340
+      }
+     },
+     "needsQuestions": null,
+     "duesSettings": null,
+     "questions": [],
+     "sponsors": {
+      "__typename": "ProGroupSponsorsConnection",
+      "edges": []
+     },
+     "keyGroupPhoto": {
+      "__ref": "PhotoInfo:509790647"
+     },
+     "status": "PAID",
+     "isInCumulativeImpactTreatment": false
+    },
+    "Event:sfnhctykccbqb": {
+     "__typename": "Event",
+     "id": "sfnhctykccbqb",
+     "attendanceForecast": null,
+     "token": "sfnhctykccbqb",
+     "title": "J Dynamic Functional Programming Monthly Meetup",
+     "description": "You may join the audio of the meeting by phone:\n‪(US) +1 937-589-3878‬ PIN: ‪233 448 729‬#\n\nThe general format of our meetings is as follows:\n\nTime / Subject / Description\n\n[*] 18:30 - 19:00 / Beginner's regatta / We cover topics on basic facilities of J\n\n[*]19:00 - 19:30 / Show-and-tell/ You are encouraged to show recent code on which you've been working in order to show off, and to solicit advice and sympathy.\n\n[*]19:30 - 20:00 / Advanced topics / We look at more advanced features of the language.\n\n[*]20:00 - 20:30 / Learning and teaching J / We distill our own experiences to help others get a handle on J and improve our own knowledge.\n\n[*]20:30 - ? / Wrap-up / General talk.\n\nThese broad areas are structured and ordered so that you may arrive or leave earlier or later depending on your particular interests.\n\n-",
+     "eventUrl": "https://www.meetup.com/j-dynamic-functional-programming/events/sfnhctykccbqb/",
+     "status": "ACTIVE",
+     "eventType": "ONLINE",
+     "featuredEventPhoto": null,
+     "displayPhoto": {
+      "__ref": "PhotoInfo:509790647"
+     },
+     "eventHosts": [
+      {
+       "__ref": "EventHost:4708227"
+      }
+     ],
+     "dateTime": "2027-01-12T18:30:00-05:00",
+     "endTime": "2027-01-12T20:30:00-05:00",
+     "isFeatured": false,
+     "venue": {
+      "__ref": "Venue:26906060"
+     },
+     "maxTickets": 23,
+     "series": {
+      "__typename": "Series",
+      "description": "Every 2nd Tuesday of the month"
+     },
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"WAITLIST\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 0
+     },
+     "rsvps({\"filter\":{\"rsvpStatus\":[\"YES\"]}})": {
+      "__typename": "RsvpConnection",
+      "totalCount": 1
+     },
+     "waitlistMode": "AUTO",
+     "guestsAllowed": true,
+     "numberOfAllowedGuests": 5,
+     "proCompleteRsvp": null,
+     "topics": {
+      "__typename": "TopicsConnection",
+      "edges": [
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:103125"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:39090"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:120095"
+        }
+       },
+       {
+        "__typename": "TopicEdge",
+        "node": {
+         "__ref": "Topic:57349"
+        }
+       }
+      ]
+     },
+     "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpOpenTime": null,
+      "rsvpCloseTime": null
+     },
+     "covidPrecautions": {
+      "__typename": "CovidPrecautions",
+      "masks": null,
+      "vaccinations": null,
+      "details": null,
+      "venueType": null
+     },
+     "isNetworkEvent": false,
+     "isEventChatEnabled": false,
+     "externalChat": null,
+     "feeSettings": null,
+     "networkEvent": null,
+     "speakerDetails": null,
+     "socialProofInsights": null,
+     "group": {
+      "__ref": "Group:1548071"
+     },
+     "sponsoredUntil": null,
+     "komootUrl": null
+    },
+    "ROOT_QUERY": {
+     "__typename": "Query",
+     "event({\"id\":\"sfnhctykccbqb\"})": {
+      "__ref": "Event:sfnhctykccbqb"
+     }
+    }
+   },
+   "_sentryTraceData": "2bb2879f326e828f32e2cf492b644457-4987f69ccd676078-0",
+   "_sentryBaggage": "sentry-environment=production,sentry-release=49c0734fc933ebd9f147e96038f608ad12d30e9e,sentry-public_key=5d12cd2317664353456ab4c40d079af2,sentry-trace_id=2bb2879f326e828f32e2cf492b644457,sentry-org_id=6787,sentry-sampled=false,sentry-sample_rand=0.7870920677530253,sentry-sample_rate=0.01"
+  },
+  "__N_SSP": true
+ },
+ "page": "/[slug]/events/[eventId]",
+ "query": {
+  "slug": "j-dynamic-functional-programming",
+  "eventId": "sfnhctykccbqb"
+ },
+ "buildId": "49c0734fc933ebd9f147e96038f608ad12d30e9e",
+ "isFallback": false,
+ "isExperimentalCompile": false,
+ "gssp": true,
+ "locale": "en-US",
+ "locales": [
+  "en-US",
+  "en-AU",
+  "de",
+  "de-DE",
+  "es",
+  "es-ES",
+  "fr",
+  "fr-FR",
+  "it",
+  "it-IT",
+  "ja",
+  "ja-JP",
+  "ko",
+  "ko-KR",
+  "nl",
+  "nl-NL",
+  "pl",
+  "pl-PL",
+  "pt",
+  "pt-BR",
+  "ru",
+  "ru-RU",
+  "tr",
+  "tr-TR",
+  "th-TH"
+ ],
+ "defaultLocale": "en-US",
+ "scriptLoader": []
+}
